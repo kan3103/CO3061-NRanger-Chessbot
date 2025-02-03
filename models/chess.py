@@ -30,9 +30,14 @@ class Queen(ChessPiece):
         self.type = "Queen"
     def isValid(self, x, y, table):
         if abs(x - self.x) == abs(y - self.y):
-            for chess in table:
-                if (chess.x == self.x and chess.y == self.y) or (chess.x == x and chess.y == y): continue
-                if abs(chess.x - self.x) == abs(chess.y - self.y) and abs(chess.x - self.x) < abs(x - self.x): return False
+            step_x = 1 if x > self.x else -1
+            step_y = 1 if y > self.y else -1
+            curr_x, curr_y = self.x + step_x, self.y + step_y
+            while(curr_x != x and curr_y != y):
+                for chess in table:
+                    if(curr_x == chess.x and curr_y == chess.y): return False
+                curr_x += step_x
+                curr_y += step_y
             return True
         elif self.x == x or self.y == y:
             for chess in table:
