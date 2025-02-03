@@ -1,0 +1,4 @@
+pawn, 0, 0
+pawn, 0, 7
+pawn, 7, 0
+pawn, 7, 7

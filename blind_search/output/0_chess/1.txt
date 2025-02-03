@@ -1,0 +1,2 @@
+
+Lần duyệt thứ 1	Before:	Pawn, 0, 0	Pawn, 0, 7	Pawn, 7, 0	Pawn, 7, 7	

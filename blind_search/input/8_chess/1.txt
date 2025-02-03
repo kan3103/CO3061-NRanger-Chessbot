@@ -1,0 +1,8 @@
+rook, 2, 2
+king, 2, 4
+bishop, 3, 2
+bishop, 5, 3
+pawn, 3, 5
+pawn, 4, 3
+knight, 4, 2
+knight, 5, 2

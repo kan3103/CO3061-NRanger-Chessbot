@@ -1,0 +1,116 @@
+
+Lần duyệt thứ 1	Before:	Pawn, 2, 4	Knight, 3, 3	Bishop, 4, 4	Bishop, 5, 5	Rook, 5, 2	
+Lần duyệt thứ 1	After:	Pawn, 2, 4	Knight, 5, 2	Bishop, 4, 4	Bishop, 5, 5	
+
+Lần duyệt thứ 2	Before:	Pawn, 2, 4	Knight, 5, 2	Bishop, 4, 4	Bishop, 5, 5	
+Lần duyệt thứ 2	After:	Pawn, 2, 4	Knight, 4, 4	Bishop, 5, 5	
+
+Lần duyệt thứ 3	Before:	Pawn, 2, 4	Knight, 4, 4	Bishop, 5, 5	
+Lần duyệt thứ 3	After:	Pawn, 2, 4	Bishop, 4, 4	
+
+Lần duyệt thứ 4	Before:	Pawn, 2, 4	Bishop, 4, 4	
+Lần duyệt thứ 4	After:	Pawn, 2, 4	Knight, 5, 2	Bishop, 5, 5	
+
+Lần duyệt thứ 5	Before:	Pawn, 2, 4	Knight, 5, 2	Bishop, 5, 5	
+Lần duyệt thứ 5	After:	Pawn, 2, 4	Knight, 5, 2	Bishop, 4, 4	
+
+Lần duyệt thứ 6	Before:	Pawn, 2, 4	Knight, 5, 2	Bishop, 4, 4	
+Lần duyệt thứ 6	After:	Pawn, 2, 4	Knight, 4, 4	
+
+Lần duyệt thứ 7	Before:	Pawn, 2, 4	Knight, 4, 4	
+Lần duyệt thứ 7	After:	Pawn, 2, 4	Bishop, 3, 3	Bishop, 5, 5	Rook, 5, 2	
+
+Lần duyệt thứ 8	Before:	Pawn, 2, 4	Bishop, 3, 3	Bishop, 5, 5	Rook, 5, 2	
+Lần duyệt thứ 8	After:	Bishop, 2, 4	Bishop, 5, 5	Rook, 5, 2	
+
+Lần duyệt thứ 9	Before:	Bishop, 2, 4	Bishop, 5, 5	Rook, 5, 2	
+Lần duyệt thứ 9	After:	Bishop, 2, 4	Rook, 5, 5	
+
+Lần duyệt thứ 10	Before:	Bishop, 2, 4	Rook, 5, 5	
+Lần duyệt thứ 10	After:	Pawn, 2, 4	Bishop, 5, 5	Rook, 5, 2	
+
+Lần duyệt thứ 11	Before:	Pawn, 2, 4	Bishop, 5, 5	Rook, 5, 2	
+Lần duyệt thứ 11	After:	Pawn, 2, 4	Rook, 5, 5	
+
+Lần duyệt thứ 12	Before:	Pawn, 2, 4	Rook, 5, 5	
+Lần duyệt thứ 12	After:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+
+Lần duyệt thứ 13	Before:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+Lần duyệt thứ 13	After:	Bishop, 2, 4	Rook, 5, 2	
+
+Lần duyệt thứ 14	Before:	Bishop, 2, 4	Rook, 5, 2	
+Lần duyệt thứ 14	After:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 5	
+
+Lần duyệt thứ 15	Before:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 5	
+Lần duyệt thứ 15	After:	Bishop, 2, 4	Rook, 5, 5	
+
+Lần duyệt thứ 16	Before:	Bishop, 2, 4	Rook, 5, 5	
+Lần duyệt thứ 16	After:	Pawn, 2, 4	Bishop, 5, 5	
+
+Lần duyệt thứ 17	Before:	Pawn, 2, 4	Bishop, 5, 5	
+Lần duyệt thứ 17	After:	Pawn, 2, 4	Knight, 3, 3	Bishop, 5, 5	Rook, 5, 2	
+
+Lần duyệt thứ 18	Before:	Pawn, 2, 4	Knight, 3, 3	Bishop, 5, 5	Rook, 5, 2	
+Lần duyệt thứ 18	After:	Pawn, 2, 4	Knight, 5, 2	Bishop, 5, 5	
+
+Lần duyệt thứ 19	Before:	Pawn, 2, 4	Knight, 5, 2	Bishop, 5, 5	
+Lần duyệt thứ 19	After:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+
+Lần duyệt thứ 20	Before:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+Lần duyệt thứ 20	After:	Bishop, 2, 4	Rook, 5, 2	
+
+Lần duyệt thứ 21	Before:	Bishop, 2, 4	Rook, 5, 2	
+Lần duyệt thứ 21	After:	Pawn, 2, 4	Knight, 3, 3	Rook, 5, 5	
+
+Lần duyệt thứ 22	Before:	Pawn, 2, 4	Knight, 3, 3	Rook, 5, 5	
+Lần duyệt thứ 22	After:	Pawn, 2, 4	Bishop, 4, 4	Bishop, 3, 3	Rook, 5, 2	
+
+Lần duyệt thứ 23	Before:	Pawn, 2, 4	Bishop, 4, 4	Bishop, 3, 3	Rook, 5, 2	
+Lần duyệt thứ 23	After:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+
+Lần duyệt thứ 24	Before:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+Lần duyệt thứ 24	After:	Bishop, 2, 4	Rook, 5, 2	
+
+Lần duyệt thứ 25	Before:	Bishop, 2, 4	Rook, 5, 2	
+Lần duyệt thứ 25	After:	Bishop, 4, 4	Bishop, 2, 4	Rook, 5, 2	
+
+Lần duyệt thứ 26	Before:	Bishop, 4, 4	Bishop, 2, 4	Rook, 5, 2	
+Lần duyệt thứ 26	After:	Pawn, 2, 4	Bishop, 4, 4	Rook, 5, 2	
+
+Lần duyệt thứ 27	Before:	Pawn, 2, 4	Bishop, 4, 4	Rook, 5, 2	
+Lần duyệt thứ 27	After:	Pawn, 2, 4	Knight, 3, 3	Bishop, 4, 4	Rook, 5, 2	
+
+Lần duyệt thứ 28	Before:	Pawn, 2, 4	Knight, 3, 3	Bishop, 4, 4	Rook, 5, 2	
+Lần duyệt thứ 28	After:	Pawn, 2, 4	Knight, 5, 2	Bishop, 4, 4	
+
+Lần duyệt thứ 29	Before:	Pawn, 2, 4	Knight, 5, 2	Bishop, 4, 4	
+Lần duyệt thứ 29	After:	Pawn, 2, 4	Knight, 4, 4	
+
+Lần duyệt thứ 30	Before:	Pawn, 2, 4	Knight, 4, 4	
+Lần duyệt thứ 30	After:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+
+Lần duyệt thứ 31	Before:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 2	
+Lần duyệt thứ 31	After:	Bishop, 2, 4	Rook, 5, 2	
+
+Lần duyệt thứ 32	Before:	Bishop, 2, 4	Rook, 5, 2	
+Lần duyệt thứ 32	After:	Pawn, 2, 4	Knight, 3, 3	Bishop, 4, 4	Rook, 5, 5	
+
+Lần duyệt thứ 33	Before:	Pawn, 2, 4	Knight, 3, 3	Bishop, 4, 4	Rook, 5, 5	
+Lần duyệt thứ 33	After:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 5	
+
+Lần duyệt thứ 34	Before:	Pawn, 2, 4	Bishop, 3, 3	Rook, 5, 5	
+Lần duyệt thứ 34	After:	Bishop, 2, 4	Rook, 5, 5	
+
+Lần duyệt thứ 35	Before:	Bishop, 2, 4	Rook, 5, 5	
+Lần duyệt thứ 35	After:	Pawn, 2, 4	Bishop, 5, 5	
+
+Lần duyệt thứ 36	Before:	Pawn, 2, 4	Bishop, 5, 5	
+Lần duyệt thứ 36	After:	Pawn, 2, 4	Knight, 3, 3	Bishop, 5, 5	
+
+Lần duyệt thứ 37	Before:	Pawn, 2, 4	Knight, 3, 3	Bishop, 5, 5	
+Lần duyệt thứ 37	After:	Pawn, 2, 4	Bishop, 3, 3	
+
+Lần duyệt thứ 38	Before:	Pawn, 2, 4	Bishop, 3, 3	
+Lần duyệt thứ 38	After:	Bishop, 2, 4	
+
+Lần duyệt thứ 39	Goal:	Bishop, 2, 4	
