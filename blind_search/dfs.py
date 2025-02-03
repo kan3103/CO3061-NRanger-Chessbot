@@ -62,7 +62,7 @@ def dfs_recursive(node, output_path, chess_num, sol=None, visited=None):
         for j in range(len(node)):
             if i == j: continue
             temp = node[j]
-            if(curr.isValid(temp.x, temp.y)):
+            if(curr.isValid(temp.x, temp.y, node)):
                 original_x, original_y = curr.x, curr.y
                 curr.move(temp.x, temp.y)
                 child = node[:]
@@ -107,5 +107,5 @@ if __name__ == "__main__":
     dfs_recursive(initial, output_path, chess_num)      
     end = time.time()
     
-    time = (end - start)/60
-    print(f"Time: {time:.2f} minutes")
+    time = (end - start)
+    print(f"Time: {time:.2f} seconds")
