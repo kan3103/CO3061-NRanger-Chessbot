@@ -4,30 +4,49 @@ class ChessPiece(ABC):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
+        self.target = 0
 
     def move(self, x, y):
         self.x = x
         self.y = y
+    
+    def __eq__(self, other):
+        return self.x == other.x and self.y == other.y and self.type == other.type
+    
+    def __lt__(self, other):  
+        return (self.x, self.y) < (other.x, other.y)
         
     @abstractmethod
     # table is a list of chess object: [Rook, Queen]
     def isValid(self, x, y, table):
         pass
+    
+    def check_target(self, table):
+        self.target = 0
+        for chess in table:
+            if chess.x == self.x and chess.y == self.y: continue
+            else: 
+                if chess.isValid(self.x, self.y, table): self.target += 1
+        return self.target
 
 class King(ChessPiece):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
         self.type = "King"
+        self.target = 0
     
     def isValid(self, x, y, table):
         return ( abs(y - self.y)==1 and abs(x - self.x)==1) or ( (y == self.y and abs(x- self.x)==1) or (x == self.x and abs(y - self.y)==1) )
+    
+    
 
 class Queen(ChessPiece):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
         self.type = "Queen"
+        self.target = 0
     def isValid(self, x, y, table):
         if abs(x - self.x) == abs(y - self.y):
             step_x = 1 if x > self.x else -1
@@ -49,12 +68,14 @@ class Queen(ChessPiece):
                 ): return False
             return True
         return False
+    
         
 class Bishop(ChessPiece):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
         self.type = "Bishop"
+        self.target = 0
     def isValid(self, x, y, table):
         if abs(x - self.x) == abs(y - self.y):
             step_x = 1 if x > self.x else -1
@@ -67,20 +88,25 @@ class Bishop(ChessPiece):
                 curr_y += step_y
             return True
         return False
+    
+
 
 class Knight(ChessPiece):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
         self.type = "Knight"
+        self.target = 0
     def isValid(self, x, y, table):
         return ( abs(y - self.y)==1 and abs(x - self.x)==2 ) or ( abs(y - self.y)==2 and abs(x - self.x)==1 )
+    
 
 class Rook(ChessPiece):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
         self.type = "Rook"
+        self.target = 0
     def isValid(self, x, y, table):
         if self.x == x or self.y == y:
             for chess in table:
@@ -92,12 +118,17 @@ class Rook(ChessPiece):
                 ): return False
             return True
         return False
+    
+
 
 class Pawn(ChessPiece): # ignore the vertical movement, just allow cross movement for capturing
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
         self.type = "Pawn"
+        self.target = 0
     def isValid(self, x, y, table):
         return y - self.y == 1 and abs(x- self.x) == 1
+    
+
 
