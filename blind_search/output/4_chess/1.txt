@@ -1,45 +1,18 @@
 
-Lần duyệt thứ 1	Before:	Rook, 2, 5	Pawn, 2, 2	Bishop, 4, 5	Queen, 5, 2	
-Lần duyệt thứ 1	After:	Rook, 2, 2	Bishop, 4, 5	Queen, 5, 2	
+Lần duyệt thứ 1	Before:	Rook, 5, 4	Pawn, 4, 3	Bishop, 3, 2	Knight, 5, 2	
+Lần duyệt thứ 1	After:	Rook, 5, 2	Pawn, 4, 3	Bishop, 3, 2	
 
-Lần duyệt thứ 2	Before:	Rook, 2, 2	Bishop, 4, 5	Queen, 5, 2	
-Lần duyệt thứ 2	After:	Rook, 5, 2	Bishop, 4, 5	
+Lần duyệt thứ 2	Before:	Rook, 5, 2	Pawn, 4, 3	Bishop, 3, 2	
+Lần duyệt thứ 2	After:	Rook, 3, 2	Pawn, 4, 3	
 
-Lần duyệt thứ 3	Before:	Rook, 5, 2	Bishop, 4, 5	
-Lần duyệt thứ 3	After:	Bishop, 4, 5	Queen, 2, 2	
+Lần duyệt thứ 3	Before:	Rook, 3, 2	Pawn, 4, 3	
+Lần duyệt thứ 3	After:	Rook, 5, 2	Bishop, 4, 3	
 
-Lần duyệt thứ 4	Before:	Bishop, 4, 5	Queen, 2, 2	
-Lần duyệt thứ 4	After:	Rook, 4, 5	Pawn, 2, 2	Queen, 5, 2	
+Lần duyệt thứ 4	Before:	Rook, 5, 2	Bishop, 4, 3	
+Lần duyệt thứ 4	After:	Bishop, 5, 2	
 
-Lần duyệt thứ 5	Before:	Rook, 4, 5	Pawn, 2, 2	Queen, 5, 2	
-Lần duyệt thứ 5	After:	Rook, 4, 5	Queen, 2, 2	
-
-Lần duyệt thứ 6	Before:	Rook, 4, 5	Queen, 2, 2	
-Lần duyệt thứ 6	After:	Pawn, 2, 2	Bishop, 4, 5	Queen, 2, 5	
-
-Lần duyệt thứ 7	Before:	Pawn, 2, 2	Bishop, 4, 5	Queen, 2, 5	
-Lần duyệt thứ 7	After:	Bishop, 4, 5	Queen, 2, 2	
-
-Lần duyệt thứ 8	Before:	Bishop, 4, 5	Queen, 2, 2	
-Lần duyệt thứ 8	After:	Pawn, 2, 2	Queen, 4, 5	
-
-Lần duyệt thứ 9	Before:	Pawn, 2, 2	Queen, 4, 5	
-Lần duyệt thứ 9	After:	Rook, 2, 5	Bishop, 4, 5	Queen, 2, 2	
-
-Lần duyệt thứ 10	Before:	Rook, 2, 5	Bishop, 4, 5	Queen, 2, 2	
-Lần duyệt thứ 10	After:	Rook, 4, 5	Queen, 2, 2	
-
-Lần duyệt thứ 11	Before:	Rook, 4, 5	Queen, 2, 2	
-Lần duyệt thứ 11	After:	Rook, 2, 2	Bishop, 4, 5	
-
-Lần duyệt thứ 12	Before:	Rook, 2, 2	Bishop, 4, 5	
-Lần duyệt thứ 12	After:	Bishop, 4, 5	Queen, 2, 5	
-
-Lần duyệt thứ 13	Before:	Bishop, 4, 5	Queen, 2, 5	
-Lần duyệt thứ 13	After:	Queen, 4, 5	
-
-Lần duyệt thứ 14	Goal:	Queen, 4, 5	
-Initial state:	Rook, 2, 5	Pawn, 2, 2	Bishop, 4, 5	Queen, 5, 2	
-Step 1: 	Queen, 5, 2 captures Pawn, 2, 2
-Step 2: 	Queen, 2, 2 captures Rook, 2, 5
-Step 3: 	Queen, 2, 5 captures Bishop, 4, 5
+Lần duyệt thứ 5	Goal:	Bishop, 5, 2	
+Initial state:	Rook, 5, 4	Pawn, 4, 3	Bishop, 3, 2	Knight, 5, 2	
+Step 1: 	Rook, 5, 4 captures Knight, 5, 2
+Step 2: 	Bishop, 3, 2 captures Pawn, 4, 3
+Step 3: 	Bishop, 4, 3 captures Rook, 5, 2
