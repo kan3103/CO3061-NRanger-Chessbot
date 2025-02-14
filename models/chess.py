@@ -4,11 +4,13 @@ class ChessPiece(ABC):
     def __init__(self,x=0,y=0):
         self.x = x
         self.y = y
-        self.target = 0
 
     def move(self, x, y):
         self.x = x
         self.y = y
+    
+    def __hash__(self):
+        return hash((self.x, self.y, self.type))
     
     def __eq__(self, other):
         return self.x == other.x and self.y == other.y and self.type == other.type
@@ -22,12 +24,19 @@ class ChessPiece(ABC):
         pass
     
     def check_target(self, table):
-        self.target = 0
+        target = 0
+        have_target = 0
         for chess in table:
             if chess.x == self.x and chess.y == self.y: continue
             else: 
-                if chess.isValid(self.x, self.y, table): self.target += 1
-        return self.target
+                if self.isValid(chess.x,chess.y , table): target += 1
+                if chess.simulation(self.x, self.y, table) and have_target == 0: have_target += 1
+        return target,have_target
+
+    def simulation(self, x, y, table):
+        pass
+    
+
 
 class King(ChessPiece):
     def __init__(self,x=0,y=0):
@@ -39,6 +48,17 @@ class King(ChessPiece):
     def isValid(self, x, y, table):
         return ( abs(y - self.y)==1 and abs(x - self.x)==1) or ( (y == self.y and abs(x- self.x)==1) or (x == self.x and abs(y - self.y)==1) )
     
+    def simulation(self, x, y, table):
+        if self.isValid(x, y, table):
+            return True
+        for chess in table:
+            if chess.x == x and chess.y == y: continue
+            if chess.x == self.x and chess.y == self.y: continue
+            
+            temp = King(chess.x,chess.y)
+            if temp.isValid(x, y, table):
+                return True
+        return False
     
 
 class Queen(ChessPiece):
@@ -69,6 +89,17 @@ class Queen(ChessPiece):
             return True
         return False
     
+    def simulation(self, x, y, table):
+        if self.isValid(x, y, table):
+            return True
+        for chess in table:
+            if chess.x == x and chess.y == y: continue
+            if chess.x == self.x and chess.y == self.y: continue
+            
+            temp = Queen(chess.x,chess.y)
+            if temp.isValid(x, y, table):
+                return True
+        return False
         
 class Bishop(ChessPiece):
     def __init__(self,x=0,y=0):
@@ -89,6 +120,19 @@ class Bishop(ChessPiece):
             return True
         return False
     
+    def simulation(self, x, y, table):
+        if (abs(x-y)%2 != abs(self.x-self.y)%2):
+            return False
+        if self.isValid(x, y, table):
+            return True
+        for chess in table:
+            if chess.x == x and chess.y == y: continue
+            if chess.x == self.x and chess.y == self.y: continue
+            
+            temp = Bishop(chess.x,chess.y)
+            if temp.isValid(x, y, table):
+                return True
+        return False
 
 
 class Knight(ChessPiece):
@@ -100,6 +144,17 @@ class Knight(ChessPiece):
     def isValid(self, x, y, table):
         return ( abs(y - self.y)==1 and abs(x - self.x)==2 ) or ( abs(y - self.y)==2 and abs(x - self.x)==1 )
     
+    def simulation(self, x, y, table):
+        if self.isValid(x, y, table):
+            return True
+        for chess in table:
+            if chess.x == x and chess.y == y: continue
+            if chess.x == self.x and chess.y == self.y: continue
+            
+            temp = Knight(chess.x,chess.y)
+            if temp.isValid(x, y, table):
+                return True
+        return False
 
 class Rook(ChessPiece):
     def __init__(self,x=0,y=0):
@@ -119,6 +174,17 @@ class Rook(ChessPiece):
             return True
         return False
     
+    def simulation(self, x, y, table):
+        if self.isValid(x, y, table):
+            return True
+        for chess in table:
+            if chess.x == x and chess.y == y: continue
+            if chess.x == self.x and chess.y == self.y: continue
+            
+            temp = Rook(chess.x,chess.y)
+            if temp.isValid(x, y, table):
+                return True
+        return False
 
 
 class Pawn(ChessPiece): # ignore the vertical movement, just allow cross movement for capturing
@@ -130,5 +196,18 @@ class Pawn(ChessPiece): # ignore the vertical movement, just allow cross movemen
     def isValid(self, x, y, table):
         return y - self.y == 1 and abs(x- self.x) == 1
     
+    def simulation(self, x, y, table):
+        if (self.y>=y):
+            return False
+        if self.isValid(x, y, table):
+            return True
+        for chess in table:
+            if chess.x == x and chess.y == y: continue
+            if chess.x == self.x and chess.y == self.y: continue
+            
+            temp = Pawn(chess.x,chess.y)
+            if temp.isValid(x, y, table):
+                return True
+        return False
 
 

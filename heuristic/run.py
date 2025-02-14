@@ -3,8 +3,7 @@ import sys
 from queue import PriorityQueue
 import time
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-
+import tracemalloc
 from models.chess import Rook, Bishop, Queen, Pawn, Knight, King
 
 
@@ -29,7 +28,7 @@ class Heuristic_search():
                 self.initial.append(chess)
                 
         self.initial = sorted(self.initial)
-        self.visited = []
+        self.visited = set()
         self.chess_num = len(self.initial)
         self.check_step = ""
     
@@ -71,7 +70,7 @@ class Heuristic_search():
             self.print_step(self.check_step)
             return True
         else:
-            self.visited.append(node)
+            self.visited.add(frozenset(node))
             self.step += 1
             for chess in node:
                 for chess2 in node:
@@ -83,14 +82,34 @@ class Heuristic_search():
                         temp.append(tempchess)
                         temp = sorted(temp)
                         s = chess.type + " " + str(chess.x) + " " + str(chess.y) + " eat " + chess2.type + " " + str(chess2.x) + " " + str(chess2.y)
-                        if(self.check_target(temp) == 0 and len(temp) != 1):
-                            self.visited.append(temp)
+                        if(frozenset(temp) in self.visited):
                             continue
-                        priority.put((-(self.check_target(temp)), temp ,s ))
+                        targets, have_targets = self.check_target(temp)
+                        
+                        if(targets == 0 and len(temp) != 1) or (len(temp) - have_targets -1 > 0 and len(temp) > 2):
+                            self.visited.add(frozenset(temp))
+                            continue
+                        # if(len(temp)-self.check_choose(temp)-1 > 0 and len(temp)>2):
+                        #     self.visited.add(frozenset(temp))
+                        #     continue
+                            
+                        if self.check_goal(temp):
+                            sol.append(s)
+                            self.check_step+=f"\nStep {self.step}: \t" + s
+                            self.check_step+=f"\nGoal with {str(self.step)} \n"
+                            count = 1
+                            for s in sol:
+                                print(s)
+                                self.check_step+="step "+ str(count) +': ' +s+'\n'
+                                count += 1
+                                
+                            self.print_step(self.check_step)
+                            return True
+                        priority.put((-targets, temp ,s ))
                         
             while not priority.empty():
                 temp=priority.get()
-                while temp[1] in hs.visited:
+                while frozenset(temp[1]) in hs.visited:
                     if not priority.empty():
                         temp = priority.get()
                     else:
@@ -105,11 +124,16 @@ class Heuristic_search():
     
     def check_target(self, node):
         if len(node) == 1:
-            return 0
+            return 0,0
         targets = 0
+        have_targets = 0
         for chess in node:
-            targets += chess.check_target(node)
-        return targets       
+            target,have_target = chess.check_target(node)
+            if (target == 0 and have_target == 0):
+                return 0,0
+            targets += target
+            have_targets += have_target
+        return targets , have_targets
             
     def check_goal(self, node):
         if len(node) == 1:
@@ -117,10 +141,20 @@ class Heuristic_search():
         return False
 
 if __name__ == "__main__":
+    # tracemalloc.start()
+    
+    
     start = time.time()
+    
     input_path = "heuristic/input/1.txt"
     hs = Heuristic_search(input_path)
+   
     hs.run(hs.initial)
+    hs.print_step(hs.check_step)    
     end = time.time()
+    # current, peak = tracemalloc.get_traced_memory()
+    # print(f"Current memory usage is {current / 10**6}MB; Peak was {peak / 10**6}MB")
+    # tracemalloc.stop()
+
     time = (end - start)
     print(f"Time: {time:.2f} seconds")
