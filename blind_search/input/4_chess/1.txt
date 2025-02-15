@@ -1,4 +1,0 @@
-rook, 2, 5
-pawn, 2, 2
-bishop, 4, 5
-queen, 5, 2
