@@ -56,13 +56,13 @@ class Heuristic_search():
     def run(self,node,sol=None):
         priority = PriorityQueue()
         if sol is None:
-            sol = []
+            sol = ([],[])
         else:
-            self.check_step+=f"\nStep {self.step}: \t" + sol[-1]
+            self.check_step+=f"\nStep {self.step}: \t" + sol[0][0][-1]
         if self.check_goal(node):
             self.check_step+=f"\nGoal with {str(self.step)} \n"
             count = 1
-            for s in sol:
+            for s in sol[0]:
                 print(s)
                 self.check_step+="step "+ str(count) +': ' +s+'\n'
                 count += 1
@@ -92,11 +92,11 @@ class Heuristic_search():
                             continue
                             
                         if self.check_goal(temp):
-                            sol.append(s)
+                            sol[0].append(s)
                             self.check_step+=f"\nStep {self.step}: \t" + s
                             self.check_step+=f"\nGoal with {str(self.step)} \n"
                             count = 1
-                            for s in sol:
+                            for s in sol[0]:
                                 print(s)
                                 self.check_step+="step "+ str(count) +': ' +s+'\n'
                                 count += 1
@@ -107,11 +107,13 @@ class Heuristic_search():
                         
             while not priority.empty():
                 temp=priority.get()
-                sol.append(temp[2])
+                sol[0].append(temp[2])
+                sol[1].append(temp[1])
                 if hs.run(temp[1],sol):
                     return True
                 else:
-                    sol.pop()
+                    sol[0].pop()
+                    sol[1].pop()
         return False
 
     
