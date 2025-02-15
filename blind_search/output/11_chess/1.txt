@@ -21,327 +21,327 @@ Lần duyệt thứ 7	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 
 Lần duyệt thứ 7	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
 
 Lần duyệt thứ 8	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
-Lần duyệt thứ 8	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 8	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 9	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 9	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 9	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 9	After:	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 10	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 10	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 10	Before:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 10	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
 
-Lần duyệt thứ 11	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 11	After:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 11	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 11	After:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 12	Before:	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 12	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 12	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 12	After:	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 13	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
-Lần duyệt thứ 13	After:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 13	Before:	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 13	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 14	Before:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 14	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 14	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 14	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 15	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 15	After:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 15	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 15	After:	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 16	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 16	After:	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 16	Before:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 16	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 17	Before:	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 17	After:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 17	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 17	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 18	Before:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 18	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 18	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 18	After:	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 19	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 19	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 19	Before:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 19	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 20	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 20	After:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 20	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 20	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
 
-Lần duyệt thứ 21	Before:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 21	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 21	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
+Lần duyệt thứ 21	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 22	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 22	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 22	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 22	After:	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 23	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 23	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 23	Before:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 23	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 24	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 24	After:	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 24	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 24	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 25	Before:	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 25	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 25	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 25	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 26	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 26	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 26	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 26	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 27	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 27	After:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 27	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 27	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
 
-Lần duyệt thứ 28	Before:	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 28	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 28	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 28	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
 
-Lần duyệt thứ 29	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 29	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 29	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
+Lần duyệt thứ 29	After:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 30	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 30	After:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 30	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 30	After:	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 31	Before:	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 31	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 31	Before:	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 31	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 32	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 32	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
+Lần duyệt thứ 32	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 32	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 33	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
-Lần duyệt thứ 33	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 33	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 33	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 34	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 34	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 34	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 34	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 35	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 35	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 35	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 35	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 36	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 36	After:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 36	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 36	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 37	Before:	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 37	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 37	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 37	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 38	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 38	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 38	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 38	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 39	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 39	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 39	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 39	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
 
-Lần duyệt thứ 40	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 40	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 40	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 40	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 41	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 41	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 41	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 41	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 42	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 42	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 42	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 42	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 43	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 43	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 43	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 43	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 44	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 44	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 44	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 44	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 45	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 45	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 45	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 45	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 46	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 46	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 46	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 46	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 47	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
-Lần duyệt thứ 47	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
+Lần duyệt thứ 47	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 47	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 48	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
-Lần duyệt thứ 48	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 48	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 48	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 49	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 49	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 49	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 49	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 50	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 50	After:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 50	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 50	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 51	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 51	After:	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 51	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 51	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
 
-Lần duyệt thứ 52	Before:	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 52	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 52	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
+Lần duyệt thứ 52	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 53	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 53	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 53	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 53	After:	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 54	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 54	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 54	Before:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 54	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 55	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 55	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 55	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 55	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 56	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 56	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 56	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 56	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 57	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 57	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 57	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 57	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 58	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 58	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 58	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 58	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 59	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 59	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 59	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 59	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
 
-Lần duyệt thứ 60	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 60	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 60	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
+Lần duyệt thứ 60	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 61	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 61	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 61	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 61	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 62	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 62	After:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 62	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 62	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 63	Before:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 63	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 63	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 63	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 64	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 64	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 64	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 64	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 65	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 65	After:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 65	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 65	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 66	Before:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 66	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 66	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 66	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 67	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 67	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 67	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 67	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 68	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 68	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 68	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 68	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 69	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 69	After:	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 69	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 69	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 70	Before:	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 70	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 70	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 70	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 71	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 71	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 71	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 71	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 72	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 72	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 72	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 72	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	Rook, 4, 1	
 
-Lần duyệt thứ 73	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 73	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 73	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	Rook, 4, 1	
+Lần duyệt thứ 73	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
 
-Lần duyệt thứ 74	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 74	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 74	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 74	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
 
-Lần duyệt thứ 75	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 75	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 75	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
+Lần duyệt thứ 75	After:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 76	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 76	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 76	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 76	After:	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 77	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 77	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 77	Before:	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 77	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 78	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 78	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 78	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 78	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 79	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 79	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 79	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 79	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 80	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 80	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 80	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 80	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 81	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 81	After:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 81	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 81	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 82	Before:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-Lần duyệt thứ 82	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 82	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 82	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 83	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 83	After:	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 83	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 83	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 84	Before:	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 84	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 84	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 84	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 85	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 85	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 85	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 85	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 86	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 86	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 86	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 86	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 87	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 87	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 87	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 87	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 88	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 88	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 88	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 88	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 89	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 89	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 89	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 89	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 90	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 90	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 90	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 90	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 91	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 91	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 91	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 91	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
 
-Lần duyệt thứ 92	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 92	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 92	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 92	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 93	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-Lần duyệt thứ 93	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 93	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 93	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 94	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 94	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 94	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 94	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 95	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 95	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 95	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 95	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 96	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 96	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 96	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 96	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Pawn, 6, 2	
 
-Lần duyệt thứ 97	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 97	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 97	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Pawn, 6, 2	
+Lần duyệt thứ 97	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
 
-Lần duyệt thứ 98	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 98	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 98	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 98	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 99	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 99	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 99	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 99	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 100	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 100	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 100	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 100	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
 
-Lần duyệt thứ 101	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 101	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 101	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
+Lần duyệt thứ 101	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 102	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 102	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 102	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 102	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 103	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 103	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 103	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 103	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 104	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 104	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
+Lần duyệt thứ 104	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 104	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 105	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
-Lần duyệt thứ 105	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 105	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 105	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
 
-Lần duyệt thứ 106	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 106	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 106	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
+Lần duyệt thứ 106	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 107	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 107	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 107	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 107	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 108	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 108	After:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 108	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 108	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 109	Before:	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 109	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 109	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 109	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 110	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 110	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 110	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 110	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 111	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 111	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 111	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 111	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 112	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 112	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 112	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 112	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
 
-Lần duyệt thứ 113	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 113	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 113	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 113	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 114	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 114	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 114	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 114	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 115	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 115	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
 Lần duyệt thứ 115	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
 Lần duyệt thứ 116	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
@@ -351,54 +351,54 @@ Lần duyệt thứ 117	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5
 Lần duyệt thứ 117	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
 Lần duyệt thứ 118	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 118	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 118	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 119	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 119	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 119	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 119	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 120	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 120	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 120	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 120	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 121	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 121	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 121	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 121	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 122	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 122	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 122	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 122	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 123	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 123	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 123	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 123	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 124	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 124	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 124	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 124	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 125	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 125	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 125	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 125	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 126	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 126	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 126	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 126	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 127	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 127	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 127	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 127	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 128	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 128	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 128	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 128	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 129	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 129	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
+Lần duyệt thứ 129	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 129	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 130	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-Lần duyệt thứ 130	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 130	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 130	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 131	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 131	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 131	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 131	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
 
-Lần duyệt thứ 132	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 132	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 132	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 132	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 133	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 133	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 133	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 133	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 134	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 134	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
 Lần duyệt thứ 134	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
 Lần duyệt thứ 135	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
@@ -408,1110 +408,354 @@ Lần duyệt thứ 136	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1
 Lần duyệt thứ 136	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
 Lần duyệt thứ 137	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 137	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 137	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 138	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 138	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 138	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 138	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 139	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 139	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 139	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 139	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 140	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 140	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 140	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 140	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 141	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 141	After:	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 141	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 141	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 142	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 142	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 142	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 142	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 143	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 143	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 143	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 143	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 144	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 144	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 144	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 144	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
 
-Lần duyệt thứ 145	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 145	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	Rook, 4, 1	
+Lần duyệt thứ 145	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 145	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 146	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	Rook, 4, 1	
-Lần duyệt thứ 146	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 146	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 146	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 147	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
-Lần duyệt thứ 147	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
+Lần duyệt thứ 147	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 147	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 148	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Rook, 6, 1	
-Lần duyệt thứ 148	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 148	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 148	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 149	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 149	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 149	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 149	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 150	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 150	After:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 150	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 150	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 151	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 151	After:	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 151	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 151	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 152	Before:	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 152	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 152	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 152	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	
 
-Lần duyệt thứ 153	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 153	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 153	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 153	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 154	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 154	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 154	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 154	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 155	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 155	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 155	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 155	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 156	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 156	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 156	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 156	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 157	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 157	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 157	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 157	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 158	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 158	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 158	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 158	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 159	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 159	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 159	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 159	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 160	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 160	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 160	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 160	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 161	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 161	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 161	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 161	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 162	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 162	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 162	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 162	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 163	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 163	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 163	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 163	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 164	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 164	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 164	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 164	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 165	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 165	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 165	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 165	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 166	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 166	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 166	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 166	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 167	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 167	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 167	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 167	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 168	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 168	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 168	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 168	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 169	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 169	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 169	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 169	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 170	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 170	After:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 170	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 170	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 171	Before:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 171	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 171	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 171	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 172	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 172	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 172	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 172	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 173	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 173	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 173	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 173	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 174	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 174	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 174	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 174	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 175	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 175	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 175	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 175	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 176	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 176	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 176	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 176	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 177	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 177	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 177	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 177	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 178	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 178	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 178	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 178	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 179	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 179	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 179	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 179	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 180	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 180	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 180	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 180	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 181	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 181	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 181	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 181	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 182	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
-Lần duyệt thứ 182	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 182	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 182	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 183	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 183	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 183	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 183	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 184	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 184	After:	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 184	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 184	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 185	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 185	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 185	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 185	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 186	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 186	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 186	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 186	After:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 187	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 187	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 187	Before:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 187	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 188	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 188	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 188	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 188	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 189	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 189	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 189	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 189	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 190	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 190	After:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 190	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 190	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 191	Before:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 191	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 191	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 191	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 192	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 192	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 192	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 192	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 193	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 193	After:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 193	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 193	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 194	Before:	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 194	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 194	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 194	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 195	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 195	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 195	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 195	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 196	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 196	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 196	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 196	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 197	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 197	After:	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 197	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 197	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 198	Before:	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 198	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 198	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 198	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 199	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 199	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 199	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 199	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 200	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 200	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 200	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 200	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 201	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 201	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 201	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 201	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 202	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 202	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 202	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 202	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
 
-Lần duyệt thứ 203	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 203	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 203	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 203	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 204	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 204	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 204	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 204	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 205	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 205	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 205	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 205	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 206	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 206	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 206	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 206	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 207	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 207	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 207	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 207	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 208	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 208	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 208	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 208	After:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 209	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 209	After:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 209	Before:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 209	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
 
-Lần duyệt thứ 210	Before:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-Lần duyệt thứ 210	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 210	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
+Lần duyệt thứ 210	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 211	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 211	After:	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 211	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 211	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 212	Before:	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 212	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 212	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 212	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
 
-Lần duyệt thứ 213	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 213	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 213	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 213	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 214	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 214	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 214	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 214	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 215	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 215	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 215	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 215	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 216	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 216	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 216	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 216	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 217	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 217	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
+Lần duyệt thứ 217	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 217	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
 
-Lần duyệt thứ 218	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 218	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 218	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
+Lần duyệt thứ 218	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 219	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 219	After:	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 219	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 219	After:	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 220	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 220	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 220	Before:	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 220	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 221	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 221	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 221	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 221	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 222	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 222	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 222	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 222	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 223	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 223	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 223	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 223	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 224	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 224	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 224	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 224	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 225	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 225	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 225	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 225	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
 
-Lần duyệt thứ 226	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 226	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 226	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
+Lần duyệt thứ 226	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 227	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 227	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
+Lần duyệt thứ 227	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 227	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 228	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 228	After:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
+Lần duyệt thứ 228	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 228	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 229	Before:	Knight, 6, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 229	After:	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 229	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 229	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
 
-Lần duyệt thứ 230	Before:	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 230	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 230	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 230	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 231	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 231	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 231	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 231	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 232	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 232	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 232	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 232	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 233	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 233	After:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
+Lần duyệt thứ 233	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 233	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 234	Before:	Knight, 4, 1	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 234	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 234	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 234	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 235	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 235	After:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 235	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 235	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 236	Before:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 236	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 236	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 236	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 237	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 237	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 237	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 237	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 238	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 238	After:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
+Lần duyệt thứ 238	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 238	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 239	Before:	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-Lần duyệt thứ 239	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 239	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 239	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 240	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 240	After:	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 240	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 240	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
 
-Lần duyệt thứ 241	Before:	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 241	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 241	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 241	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
 
-Lần duyệt thứ 242	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 242	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 242	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 242	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
 
-Lần duyệt thứ 243	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 243	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 243	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
+Lần duyệt thứ 243	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 244	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 244	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 244	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 244	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
 
-Lần duyệt thứ 245	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 245	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 245	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 245	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
 
-Lần duyệt thứ 246	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 246	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
+Lần duyệt thứ 246	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
+Lần duyệt thứ 246	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
 
-Lần duyệt thứ 247	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 247	After:	Knight, 6, 2	Knight, 3, 5	
+Lần duyệt thứ 247	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
+Lần duyệt thứ 247	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 248	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 248	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 248	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 248	After:	Knight, 6, 3	Knight, 2, 2	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 249	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 249	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
+Lần duyệt thứ 249	Before:	Knight, 6, 3	Knight, 2, 2	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
+Lần duyệt thứ 249	After:	Knight, 6, 3	Knight, 4, 1	Rook, 6, 1	Pawn, 6, 2	
 
-Lần duyệt thứ 250	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 250	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
+Lần duyệt thứ 250	Before:	Knight, 6, 3	Knight, 4, 1	Rook, 6, 1	Pawn, 6, 2	
+Lần duyệt thứ 250	After:	Knight, 6, 3	Knight, 6, 2	Rook, 6, 1	
 
-Lần duyệt thứ 251	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 251	After:	Knight, 6, 2	Knight, 1, 6	
+Lần duyệt thứ 251	Before:	Knight, 6, 3	Knight, 6, 2	Rook, 6, 1	
+Lần duyệt thứ 251	After:	Knight, 6, 3	Rook, 6, 2	
 
-Lần duyệt thứ 252	Before:	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 252	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	Rook, 4, 1	
+Lần duyệt thứ 252	Before:	Knight, 6, 3	Rook, 6, 2	
+Lần duyệt thứ 252	After:	Rook, 6, 3	
 
-Lần duyệt thứ 253	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 253	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 254	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 254	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 255	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 255	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Pawn, 6, 2	
-
-Lần duyệt thứ 256	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Pawn, 6, 2	
-Lần duyệt thứ 256	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-
-Lần duyệt thứ 257	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-Lần duyệt thứ 257	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 258	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 258	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 259	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 259	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-
-Lần duyệt thứ 260	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-Lần duyệt thứ 260	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 261	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 261	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 262	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 262	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-
-Lần duyệt thứ 263	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 263	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 264	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 264	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-
-Lần duyệt thứ 265	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-Lần duyệt thứ 265	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 266	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 266	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 267	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 267	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 268	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 268	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-
-Lần duyệt thứ 269	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 269	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 270	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 270	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 271	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 271	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-
-Lần duyệt thứ 272	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	Bishop, 3, 5	
-Lần duyệt thứ 272	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 273	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 273	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 274	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 274	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 275	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 275	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 276	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 276	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 277	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 277	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 278	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 278	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-
-Lần duyệt thứ 279	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 279	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 280	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 280	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 281	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 281	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 282	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 282	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 283	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 283	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 284	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 284	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 285	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 285	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 286	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 286	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 287	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 287	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 288	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 288	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 289	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 289	After:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 290	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 290	After:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-
-Lần duyệt thứ 291	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 1, 6	
-Lần duyệt thứ 291	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 292	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 292	After:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 293	Before:	Knight, 4, 1	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 293	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 294	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 294	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 295	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 295	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 296	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 296	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 297	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 297	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 298	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 298	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 299	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 299	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 300	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 300	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 301	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 301	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 302	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 302	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 303	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 303	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 304	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 304	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 305	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 305	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 306	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 306	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
-
-Lần duyệt thứ 307	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 1	
-Lần duyệt thứ 307	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-
-Lần duyệt thứ 308	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 308	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 309	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 309	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 310	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 310	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 311	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 311	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
-
-Lần duyệt thứ 312	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 312	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 313	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 313	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 314	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 314	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 315	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 315	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 316	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 316	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 317	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 317	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-
-Lần duyệt thứ 318	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 318	After:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 319	Before:	Knight, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 319	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 320	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 320	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 321	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 321	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 322	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 322	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 323	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 323	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 324	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 324	After:	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 325	Before:	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 325	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 326	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 326	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 327	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 327	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 328	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 328	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 329	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 329	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 330	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 330	After:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	
-
-Lần duyệt thứ 331	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 1, 6	Bishop, 6, 2	
-Lần duyệt thứ 331	After:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 332	Before:	Knight, 2, 2	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 332	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 333	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 333	After:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 334	Before:	Knight, 6, 3	Knight, 1, 6	Bishop, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 334	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 335	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 335	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 336	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 336	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 337	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 337	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 338	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 338	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 339	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 339	After:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 340	Before:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 340	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 341	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 341	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 342	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 342	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 343	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 343	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 344	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 344	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 345	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 345	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 346	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 346	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 347	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 347	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 348	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 348	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 349	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 349	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 350	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 350	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-
-Lần duyệt thứ 351	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 351	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 352	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 352	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 353	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 353	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 354	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 354	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 355	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 355	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 356	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 356	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 357	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 357	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 358	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 358	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 359	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 359	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 360	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 360	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 361	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 361	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 362	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 362	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 363	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 363	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 364	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 364	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 365	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 365	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 366	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 366	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 367	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 367	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 368	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 368	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 369	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 369	After:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 370	Before:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 370	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 371	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 371	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 372	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 372	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 373	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 373	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 374	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 374	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 375	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 375	After:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 376	Before:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 376	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 377	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 377	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 378	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 378	After:	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 379	Before:	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 379	After:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 380	Before:	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 380	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 381	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 381	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 382	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 382	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 383	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 383	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 384	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 384	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 385	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 385	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 386	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 386	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 387	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 387	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 388	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 388	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 389	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 389	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 390	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 390	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 391	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 391	After:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 392	Before:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 392	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 393	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 393	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 394	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 394	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 395	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 395	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 396	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 396	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 397	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 397	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 398	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 398	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 399	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 399	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 400	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 400	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 401	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 401	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 402	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 402	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 403	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 403	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 404	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 404	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-
-Lần duyệt thứ 405	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 405	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 406	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 406	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 407	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 407	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 408	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 408	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 409	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 409	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 410	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 410	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 411	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 411	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 412	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 412	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 413	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 413	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 414	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 414	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 415	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 415	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 416	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 416	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 417	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 417	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 418	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 418	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 419	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 419	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 420	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 420	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 421	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 421	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 422	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 422	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 423	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 423	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 424	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 424	After:	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 425	Before:	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 425	After:	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 426	Before:	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 426	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 427	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 427	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 428	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 428	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-
-Lần duyệt thứ 429	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 6	Rook, 6, 2	
-Lần duyệt thứ 429	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 430	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 430	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-
-Lần duyệt thứ 431	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 431	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 432	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 432	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 433	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 433	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 434	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 434	After:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 435	Before:	Knight, 6, 3	Knight, 3, 5	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 435	After:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-
-Lần duyệt thứ 436	Before:	Knight, 6, 3	Knight, 1, 6	Rook, 2, 2	
-Lần duyệt thứ 436	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 437	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 437	After:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	
-
-Lần duyệt thứ 438	Before:	Bishop, 2, 2	Knight, 3, 5	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 438	After:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-
-Lần duyệt thứ 439	Before:	Bishop, 2, 2	Knight, 1, 6	Rook, 6, 3	
-Lần duyệt thứ 439	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 440	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 440	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 441	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 441	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 442	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 442	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 443	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 443	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
-
-Lần duyệt thứ 444	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	Rook, 6, 1	
-Lần duyệt thứ 444	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 445	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 445	After:	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 446	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 446	After:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 447	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 447	After:	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 448	Before:	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 448	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 449	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 449	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 450	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 450	After:	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 451	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 451	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 452	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 452	After:	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 453	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 453	After:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 454	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 454	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 455	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 455	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 456	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 456	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 457	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 457	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 458	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 458	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 459	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 459	After:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 460	Before:	Knight, 6, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 460	After:	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 461	Before:	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 461	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 462	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 462	After:	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 463	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 463	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 464	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 464	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 465	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 465	After:	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 466	Before:	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 466	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 467	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 467	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 468	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 468	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-
-Lần duyệt thứ 469	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Pawn, 6, 2	
-Lần duyệt thứ 469	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 470	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 470	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 471	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 471	After:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 472	Before:	Knight, 6, 3	Knight, 4, 1	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 472	After:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-
-Lần duyệt thứ 473	Before:	Knight, 6, 3	Knight, 6, 2	Knight, 3, 5	
-Lần duyệt thứ 473	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 474	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 474	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 475	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 475	After:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 476	Before:	Knight, 4, 1	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 476	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 477	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 477	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 478	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 478	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 479	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 479	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 480	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 480	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 481	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 481	After:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 482	Before:	Knight, 6, 3	Knight, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 482	After:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 483	Before:	Knight, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 483	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 484	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 484	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 485	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 485	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 486	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 486	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 487	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 487	After:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 488	Before:	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 488	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 489	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 489	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-
-Lần duyệt thứ 490	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	Rook, 4, 1	
-Lần duyệt thứ 490	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-
-Lần duyệt thứ 491	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	Rook, 4, 1	
-Lần duyệt thứ 491	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-
-Lần duyệt thứ 492	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Rook, 4, 1	
-Lần duyệt thứ 492	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 493	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 493	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-
-Lần duyệt thứ 494	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	Pawn, 6, 2	
-Lần duyệt thứ 494	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 495	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 495	After:	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 496	Before:	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 496	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-
-Lần duyệt thứ 497	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 3, 5	Rook, 6, 2	
-Lần duyệt thứ 497	After:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-
-Lần duyệt thứ 498	Before:	Knight, 6, 3	Knight, 3, 5	Rook, 2, 2	
-Lần duyệt thứ 498	After:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-
-Lần duyệt thứ 499	Before:	Bishop, 2, 2	Knight, 3, 5	Rook, 6, 3	
-Lần duyệt thứ 499	After:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 500	Before:	Bishop, 2, 2	Knight, 6, 3	Knight, 1, 4	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 500	After:	Knight, 6, 3	Knight, 2, 2	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 501	Before:	Knight, 6, 3	Knight, 2, 2	Rook, 6, 1	Rook, 4, 1	Pawn, 6, 2	
-Lần duyệt thứ 501	After:	Knight, 6, 3	Knight, 4, 1	Rook, 6, 1	Pawn, 6, 2	
-
-Lần duyệt thứ 502	Before:	Knight, 6, 3	Knight, 4, 1	Rook, 6, 1	Pawn, 6, 2	
-Lần duyệt thứ 502	After:	Knight, 6, 3	Knight, 6, 2	Rook, 6, 1	
-
-Lần duyệt thứ 503	Before:	Knight, 6, 3	Knight, 6, 2	Rook, 6, 1	
-Lần duyệt thứ 503	After:	Knight, 6, 2	Rook, 6, 3	
-
-Lần duyệt thứ 504	Before:	Knight, 6, 2	Rook, 6, 3	
-Lần duyệt thứ 504	After:	Rook, 6, 2	
-
-Lần duyệt thứ 505	Goal:	Rook, 6, 2	
+Lần duyệt thứ 253	Goal:	Rook, 6, 3	
 Initial state:	Bishop, 1, 1	Bishop, 2, 2	Knight, 3, 2	Knight, 1, 4	Knight, 1, 6	Bishop, 3, 5	Rook, 6, 1	Rook, 4, 1	Pawn, 5, 1	Pawn, 6, 2	Pawn, 6, 3	
 Step 1: 	Bishop, 1, 1 captures Bishop, 2, 2
 Step 2: 	Knight, 3, 2 captures Pawn, 5, 1
@@ -1521,5 +765,5 @@ Step 5: 	Knight, 3, 5 captures Knight, 1, 4
 Step 6: 	Knight, 1, 4 captures Bishop, 2, 2
 Step 7: 	Knight, 2, 2 captures Rook, 4, 1
 Step 8: 	Knight, 4, 1 captures Pawn, 6, 2
-Step 9: 	Rook, 6, 1 captures Knight, 6, 3
-Step 10: 	Rook, 6, 3 captures Knight, 6, 2
+Step 9: 	Rook, 6, 1 captures Knight, 6, 2
+Step 10: 	Rook, 6, 2 captures Knight, 6, 3
