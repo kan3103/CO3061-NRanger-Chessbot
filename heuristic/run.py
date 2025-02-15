@@ -82,16 +82,14 @@ class Heuristic_search():
                         temp.append(tempchess)
                         temp = sorted(temp)
                         s = chess.type + " " + str(chess.x) + " " + str(chess.y) + " eat " + chess2.type + " " + str(chess2.x) + " " + str(chess2.y)
+                        
                         if(frozenset(temp) in self.visited):
                             continue
                         targets, have_targets = self.check_target(temp)
-                        
-                        if(targets == 0 and len(temp) != 1) or (len(temp) - have_targets -1 > 0 and len(temp) > 2):
+                        length = len(temp)
+                        if(targets == 0 and length != 1) or (len(temp) - have_targets -1 > 0 and length > 2):
                             self.visited.add(frozenset(temp))
                             continue
-                        # if(len(temp)-self.check_choose(temp)-1 > 0 and len(temp)>2):
-                        #     self.visited.add(frozenset(temp))
-                        #     continue
                             
                         if self.check_goal(temp):
                             sol.append(s)
@@ -109,11 +107,6 @@ class Heuristic_search():
                         
             while not priority.empty():
                 temp=priority.get()
-                while frozenset(temp[1]) in hs.visited:
-                    if not priority.empty():
-                        temp = priority.get()
-                    else:
-                        return False
                 sol.append(temp[2])
                 if hs.run(temp[1],sol):
                     return True
