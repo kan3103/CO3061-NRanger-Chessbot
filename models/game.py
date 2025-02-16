@@ -10,10 +10,10 @@ square_size = screen_size // 8
 screen = pygame.display.set_mode((screen_size, screen_size + 50))
 pygame.display.set_caption('Chess ranger')
 
-white = (255, 255, 255)
-black = (0, 0, 0)
-gray = (128, 128, 128)
-highlight_color = (255, 255, 0)  
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (128, 128, 128)
+HILIGHT = (255, 255, 0)  
 
 def load_sol(chess_num, id):
     with open(f'blind_search/output/{chess_num}_chess/{id}.txt', 'r') as input_file:
@@ -33,7 +33,7 @@ def load_sol(chess_num, id):
     return initial_state, steps
         
 def draw_board():
-    colors = [white, gray]
+    colors = [WHITE, GRAY]
     for y in range(8):
         for x in range(8):
             color = colors[(x + y) % 2]
@@ -42,7 +42,7 @@ def draw_board():
     if last_move is not None:
         highlight_surface = pygame.Surface((square_size, square_size))
         highlight_surface.set_alpha(100)  
-        highlight_surface.fill(highlight_color)
+        highlight_surface.fill(HILIGHT)
         for coord in last_move:
             x, y = coord
             screen.blit(highlight_surface, (x * square_size, (7 - y) * square_size))
@@ -92,15 +92,15 @@ def draw_buttons():
 
 
     undo_rect = pygame.Rect(10, screen_size + 10, 180, 30)
-    pygame.draw.rect(screen, black, undo_rect)
-    undo_text = font.render('Undo', True, white)
+    pygame.draw.rect(screen, BLACK, undo_rect)
+    undo_text = font.render('Undo', True, WHITE)
     undo_text_rect = undo_text.get_rect(center=undo_rect.center)
     screen.blit(undo_text, undo_text_rect)
     
 
     next_rect = pygame.Rect(screen_size - 190, screen_size + 10, 180, 30)
-    pygame.draw.rect(screen, black, next_rect)
-    next_text = font.render('Next Step', True, white)
+    pygame.draw.rect(screen, BLACK, next_rect)
+    next_text = font.render('Next Step', True, WHITE)
     next_text_rect = next_text.get_rect(center=next_rect.center)
     screen.blit(next_text, next_text_rect)
     
