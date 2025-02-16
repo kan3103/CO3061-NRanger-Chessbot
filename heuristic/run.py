@@ -9,29 +9,30 @@ from models.chess import Rook, Bishop, Queen, Pawn, Knight, King
 
         
 class Heuristic_search():
-    def __init__(self,input_path):
+    def __init__(self,initial_state):
         self.step = 0
-        self.initial = []
-        self.input_path = input_path
-        with open(input_path, "r") as input_file:
-            for line in input_file:  
-                line = line.strip()
-                parts = line.split(",")  
-                chessType, x, y = parts
-                x, y = int(x), int(y)
-                if chessType == "rook": chess = Rook(x, y)
-                elif chessType == "pawn": chess = Pawn(x, y)
-                elif chessType == "bishop": chess = Bishop(x, y)
-                elif chessType == "queen": chess = Queen(x, y)
-                elif chessType == "king": chess = King(x, y)
-                else: chess = Knight(x, y)
-                self.initial.append(chess)
+        self.initial = initial_state
+        # self.initial = []
+        # self.input_path = input_path
+        # with open(input_path, "r") as input_file:
+        #     for line in input_file:  
+        #         line = line.strip()
+        #         parts = line.split(",")  
+        #         chessType, x, y = parts
+        #         x, y = int(x), int(y)
+        #         if chessType == "rook": chess = Rook(x, y)
+        #         elif chessType == "pawn": chess = Pawn(x, y)
+        #         elif chessType == "bishop": chess = Bishop(x, y)
+        #         elif chessType == "queen": chess = Queen(x, y)
+        #         elif chessType == "king": chess = King(x, y)
+        #         else: chess = Knight(x, y)
+        #         self.initial.append(chess)
                 
         self.initial = sorted(self.initial)
         self.visited = set()
         self.chess_num = len(self.initial)
         self.check_step = ""
-    
+        self.goal = []
     def copy(self, node):
         new_node = None
         if node.type == "Rook": new_node = Rook(node.x, node.y)
@@ -56,14 +57,13 @@ class Heuristic_search():
     def run(self,node,sol=None):
         priority = PriorityQueue()
         if sol is None:
-            sol = ([],[])
+            sol = ([],[],[])
         else:
-            self.check_step+=f"\nStep {self.step}: \t" + sol[0][0][-1]
+            self.check_step+=f"\nStep {self.step}: \t" + sol[2][-1]
         if self.check_goal(node):
             self.check_step+=f"\nGoal with {str(self.step)} \n"
             count = 1
             for s in sol[0]:
-                print(s)
                 self.check_step+="step "+ str(count) +': ' +s+'\n'
                 count += 1
                 
@@ -82,7 +82,7 @@ class Heuristic_search():
                         temp.append(tempchess)
                         temp = sorted(temp)
                         s = chess.type + " " + str(chess.x) + " " + str(chess.y) + " eat " + chess2.type + " " + str(chess2.x) + " " + str(chess2.y)
-                        
+                        goal_temp = chess.type, chess.x, chess.y, chess2.type, chess2.x, chess2.y
                         if(frozenset(temp) in self.visited):
                             continue
                         targets, have_targets = self.check_target(temp)
@@ -92,28 +92,32 @@ class Heuristic_search():
                             continue
                             
                         if self.check_goal(temp):
-                            sol[0].append(s)
-                            self.check_step+=f"\nStep {self.step}: \t" + s
+                            sol[0].append(temp)
+                            sol[1].append(goal_temp)
+                            sol[2].append(s)
+                            self.check_step+=f"\nStep {self.step}: \t" + s 
                             self.check_step+=f"\nGoal with {str(self.step)} \n"
                             count = 1
-                            for s in sol[0]:
-                                print(s)
-                                self.check_step+="step "+ str(count) +': ' +s+'\n'
+                            for so in sol[2]:
+                                self.check_step+="step "+ str(count) +': ' +so+'\n'
                                 count += 1
-                                
+                            self.goal = sol[1]
                             self.print_step(self.check_step)
                             return True
-                        priority.put((-targets, temp ,s ))
+
+                        priority.put((-targets, temp ,goal_temp ,s ))
                         
             while not priority.empty():
                 temp=priority.get()
-                sol[0].append(temp[2])
-                sol[1].append(temp[1])
-                if hs.run(temp[1],sol):
+                sol[0].append(temp[1])
+                sol[1].append(temp[2])
+                sol[2].append(temp[3])
+                if self.run(temp[1],sol):
                     return True
                 else:
                     sol[0].pop()
                     sol[1].pop()
+                    sol[2].pop()
         return False
 
     
@@ -135,6 +139,15 @@ class Heuristic_search():
             return True
         return False
 
+    def solve(self):
+        if self.run(self.initial):
+            # for i in range(len(self.goal)):
+                # print(self.tostring(self.goal[i]))
+            return self.goal
+        else:
+            print("No solution")
+            return []
+    
 if __name__ == "__main__":
     # tracemalloc.start()
     
@@ -143,8 +156,7 @@ if __name__ == "__main__":
     
     input_path = "heuristic/input/1.txt"
     hs = Heuristic_search(input_path)
-   
-    hs.run(hs.initial)
+    sol = hs.solve()
     hs.print_step(hs.check_step)    
     end = time.time()
     # current, peak = tracemalloc.get_traced_memory()

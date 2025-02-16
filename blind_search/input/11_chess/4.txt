@@ -1,0 +1,11 @@
+knight, 5, 5
+knight, 2, 5
+knight, 1, 4
+pawn, 2, 4
+pawn, 4, 4
+pawn, 4, 5
+pawn, 6, 4
+pawn, 6, 1
+king, 2, 6
+bishop, 3, 4
+bishop, 3, 6

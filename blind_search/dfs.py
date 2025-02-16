@@ -3,6 +3,7 @@ import os
 import time
 import copy
 from models.chess import Rook, Bishop, Queen, Pawn, Knight, King
+import psutil
 
 def creare_initial(input_path):
     initial = []
@@ -85,6 +86,10 @@ def dfs_recursive(node, output_path, chess_num, sol=None, visited=None):
                 curr.move(original_x, original_y)  # backtracking
     return False
 
+def get_mem():
+    process = psutil.Process(os.getpid())
+    return process.memory_info().rss/ 10**6
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--chess-num")
@@ -104,8 +109,12 @@ if __name__ == "__main__":
     initial = creare_initial(input_path)
     
     start = time.time()
+    smem = get_mem()
     dfs_recursive(initial, output_path, chess_num)      
     end = time.time()
+    emem = get_mem()
     
     time = (end - start)
+    print(f"start mem: {smem}")
+    print(f"end mem: {emem}")
     print(f"Time: {time:.2f} seconds")

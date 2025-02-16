@@ -1,0 +1,4 @@
+rook, 5, 4 
+pawn, 4, 3
+bishop, 3, 2
+knight, 5, 2
