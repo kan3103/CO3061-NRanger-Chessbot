@@ -103,6 +103,7 @@ class Heuristic_search():
                                 count += 1
                             self.goal = sol[1]
                             self.print_step(self.check_step)
+                            # print(self.goal)
                             return True
 
                         priority.put((-targets, temp ,goal_temp ,s ))
@@ -143,6 +144,7 @@ class Heuristic_search():
         if self.run(self.initial):
             # for i in range(len(self.goal)):
                 # print(self.tostring(self.goal[i]))
+            # print(self.goal)
             return self.goal
         else:
             print("No solution")

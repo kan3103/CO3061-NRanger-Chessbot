@@ -42,14 +42,14 @@ class Menu:
         # Mode 1 button
         color = self.HOVER_COLOR if self.mode1_hover else self.GRAY
         pygame.draw.rect(self.screen, color, self.mode1_rect, border_radius=10)
-        text = self.font.render('Mode 1', True, self.WHITE)
+        text = self.font.render('Blind search', True, self.WHITE)
         text_rect = text.get_rect(center=self.mode1_rect.center)
         self.screen.blit(text, text_rect)
         
         # Mode 2 button
         color = self.HOVER_COLOR if self.mode2_hover else self.GRAY
         pygame.draw.rect(self.screen, color, self.mode2_rect, border_radius=10)
-        text = self.font.render('Mode 2', True, self.WHITE)
+        text = self.font.render('Heuristic search', True, self.WHITE)
         text_rect = text.get_rect(center=self.mode2_rect.center)
         self.screen.blit(text, text_rect)
 
