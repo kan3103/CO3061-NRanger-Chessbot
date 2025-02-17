@@ -59,23 +59,24 @@ class Heuristic_search():
         if sol is None:
             sol = ([],[],[])
         else:
-            self.check_step+=f"\nStep {self.step}: \t" + sol[2][-1]
+            self.check_step+=f"\nStep {self.step}: \t" + self.tostring(sol[0][-1])
         if self.check_goal(node):
             self.check_step+=f"\nGoal with {str(self.step)} \n"
             count = 1
             for s in sol[0]:
-                self.check_step+="step "+ str(count) +': ' +s+'\n'
+                self.check_step+="step "+ str(count) +': ' +self.tostring(s)+'\n'
                 count += 1
-                
-            self.print_step(self.check_step)
             return True
         else:
             self.visited.add(frozenset(node))
             self.step += 1
+            
             for chess in node:
                 for chess2 in node:
                     if chess == chess2: continue
+                    
                     if chess.isValid(chess2.x, chess2.y, node):
+                        
                         tempchess = self.copy(chess)
                         tempchess.move(chess2.x, chess2.y)
                         temp = [chess3 for chess3 in node if chess3 != chess2 and chess3 != chess]
@@ -85,9 +86,9 @@ class Heuristic_search():
                         goal_temp = chess.type, chess.x, chess.y, chess2.type, chess2.x, chess2.y
                         if(frozenset(temp) in self.visited):
                             continue
-                        targets, have_targets = self.check_target(temp)
+                        targets,have_targets = self.check_target(temp)
                         length = len(temp)
-                        if(targets == 0 and length != 1) or (len(temp) - have_targets -1 > 0 and length > 2):
+                        if(targets == 0 and length != 1) :
                             self.visited.add(frozenset(temp))
                             continue
                             
@@ -95,7 +96,7 @@ class Heuristic_search():
                             sol[0].append(temp)
                             sol[1].append(goal_temp)
                             sol[2].append(s)
-                            self.check_step+=f"\nStep {self.step}: \t" + s 
+                            self.check_step+=f"\nStep {self.step}: \t" + self.tostring(temp)
                             self.check_step+=f"\nGoal with {str(self.step)} \n"
                             count = 1
                             for so in sol[2]:
@@ -105,7 +106,9 @@ class Heuristic_search():
                             self.print_step(self.check_step)
                             return True
 
-                        priority.put((-targets, temp ,goal_temp ,s ))
+                        value = -targets 
+                            
+                        priority.put((value, temp ,goal_temp ,s ))
                         
             while not priority.empty():
                 temp=priority.get()
@@ -127,7 +130,7 @@ class Heuristic_search():
         targets = 0
         have_targets = 0
         for chess in node:
-            target,have_target = chess.check_target(node)
+            target , have_target = chess.check_target(node)
             if (target == 0 and have_target == 0):
                 return 0,0
             targets += target
@@ -141,8 +144,6 @@ class Heuristic_search():
 
     def solve(self):
         if self.run(self.initial):
-            # for i in range(len(self.goal)):
-                # print(self.tostring(self.goal[i]))
             return self.goal
         else:
             print("No solution")
