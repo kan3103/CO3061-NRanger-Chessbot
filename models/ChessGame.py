@@ -5,6 +5,7 @@ import pygame
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from heuristic.run import Heuristic_search
+from blind_search.dfs import Blind_search
 class ChessGame:
     def __init__(self, state_init, mode):
         pygame.init()
@@ -127,10 +128,11 @@ class ChessGame:
         # with open(f'blind_search/output/{self.chess_num}_chess/{self.id}.txt', 'r') as input_file:
         #     lines = deque(input_file, maxlen=self.chess_num)
         # temp = lines[0].split('\t')[1:-1]
-            start = time.time()
             step = hs.solve()
-            end = time.time()
-            print(f"Time: {end - start:.2f} seconds")
+        else:
+            bs = Blind_search(self.initial_state)
+            step = bs.solve()
+        print("Chess game: ", step)
         return step
 
     def load_images(self):
@@ -144,7 +146,7 @@ class ChessGame:
         return images
 
     def draw_board(self):
-        colors = [self.WHITE, self.GRAY]
+        colors = [self.GRAY, self.WHITE]
         for y in range(8):
             for x in range(8):
                 color = colors[(x + y) % 2]

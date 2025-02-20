@@ -126,7 +126,7 @@ class Repair:
                             rect.centery - self.square_size//2))
 
     def draw_board(self):
-        colors = [self.WHITE, self.GRAY]
+        colors = [self.GRAY, self.WHITE]
         for y in range(8):
             for x in range(8):
                 color = colors[(x + y) % 2]

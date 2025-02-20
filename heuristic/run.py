@@ -104,6 +104,7 @@ class Heuristic_search():
                                 count += 1
                             self.goal = sol[1]
                             self.print_step(self.check_step)
+                            # print(self.goal)
                             return True
 
                         value = -targets 
