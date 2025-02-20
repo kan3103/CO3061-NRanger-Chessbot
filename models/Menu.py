@@ -12,6 +12,7 @@ class Menu:
         self.BLACK = (0, 0, 0)
         self.GRAY = (128, 128, 128)
         self.HOVER_COLOR = (100, 100, 100)
+        self.RED = (144, 238, 144)
         
         # Font
         self.font = pygame.font.Font(None, 48)
@@ -23,39 +24,50 @@ class Menu:
         
         # Create buttons
         center_x = self.screen_size // 2 - self.button_width // 2
-        center_y = self.screen_size // 2 - self.button_height
+        center_y = self.screen_size // 2 - self.button_height - self.button_margin
         
-        self.mode1_rect = pygame.Rect(center_x, center_y, self.button_width, self.button_height)
-        self.mode2_rect = pygame.Rect(center_x, center_y + self.button_height + self.button_margin, 
+        self.heuristic_rect = pygame.Rect(center_x, center_y, 
+                                        self.button_width, self.button_height)
+        self.blind_rect = pygame.Rect(center_x, 
+                                    center_y + self.button_height + self.button_margin,
                                     self.button_width, self.button_height)
         
+        # Back button
+        self.back_button = pygame.Rect(10, 10, 100, 40)
+        
         # Track button hover state
-        self.mode1_hover = False
-        self.mode2_hover = False
+        self.heuristic_hover = False
+        self.blind_hover = False
+        self.back_hover = False
 
-    def draw_title(self):
-        title = self.font.render('Chess Game', True, self.BLACK)
-        title_rect = title.get_rect(center=(self.screen_size // 2, self.screen_size // 4))
-        self.screen.blit(title, title_rect)
+    def draw_back_button(self):
+        color = self.HOVER_COLOR if self.back_hover else self.GRAY
+        pygame.draw.rect(self.screen, color, self.back_button, border_radius=5)
+        text = self.font.render('Back', True, self.WHITE)
+        text_rect = text.get_rect(center=self.back_button.center)
+        self.screen.blit(text, text_rect)
 
     def draw_buttons(self):
-        # Mode 1 button
-        color = self.HOVER_COLOR if self.mode1_hover else self.GRAY
-        pygame.draw.rect(self.screen, color, self.mode1_rect, border_radius=10)
-        text = self.font.render('Blind search', True, self.WHITE)
-        text_rect = text.get_rect(center=self.mode1_rect.center)
+        # Draw back button
+        self.draw_back_button()
+        
+        # Mode buttons
+        color = self.HOVER_COLOR if self.heuristic_hover else self.GRAY
+        pygame.draw.rect(self.screen, color, self.heuristic_rect, border_radius=10)
+        text = self.font.render('Heuristic', True, self.WHITE)
+        text_rect = text.get_rect(center=self.heuristic_rect.center)
         self.screen.blit(text, text_rect)
         
-        # Mode 2 button
-        color = self.HOVER_COLOR if self.mode2_hover else self.GRAY
-        pygame.draw.rect(self.screen, color, self.mode2_rect, border_radius=10)
-        text = self.font.render('Heuristic search', True, self.WHITE)
-        text_rect = text.get_rect(center=self.mode2_rect.center)
+        color = self.HOVER_COLOR if self.blind_hover else self.GRAY
+        pygame.draw.rect(self.screen, color, self.blind_rect, border_radius=10)
+        text = self.font.render('Blind Search', True, self.WHITE)
+        text_rect = text.get_rect(center=self.blind_rect.center)
         self.screen.blit(text, text_rect)
 
     def check_hover(self, mouse_pos):
-        self.mode1_hover = self.mode1_rect.collidepoint(mouse_pos)
-        self.mode2_hover = self.mode2_rect.collidepoint(mouse_pos)
+        self.heuristic_hover = self.heuristic_rect.collidepoint(mouse_pos)
+        self.blind_hover = self.blind_rect.collidepoint(mouse_pos)
+        self.back_hover = self.back_button.collidepoint(mouse_pos)
 
     def run(self):
         while True:
@@ -64,17 +76,18 @@ class Menu:
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     pygame.quit()
-                    sys.exit()
+                    return None
                     
                 if event.type == pygame.MOUSEMOTION:
                     self.check_hover(event.pos)
                     
                 if event.type == pygame.MOUSEBUTTONDOWN:
-                    if self.mode1_rect.collidepoint(event.pos):
-                        return "blind"
-                    elif self.mode2_rect.collidepoint(event.pos):
+                    if self.back_button.collidepoint(event.pos):
+                        return "back"
+                    elif self.heuristic_rect.collidepoint(event.pos):
                         return "heuristic"
+                    elif self.blind_rect.collidepoint(event.pos):
+                        return "blind"
             
-            self.draw_title()
             self.draw_buttons()
             pygame.display.flip()
