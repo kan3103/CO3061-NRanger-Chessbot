@@ -124,14 +124,23 @@ class ChessGame:
         # initial_state = []
         print(self.mode)
         if self.mode == "heuristic":
+            start = time.time()
             hs = Heuristic_search(self.initial_state)
+           
+           #print time with 0.2f format
+           
         # with open(f'blind_search/output/{self.chess_num}_chess/{self.id}.txt', 'r') as input_file:
         #     lines = deque(input_file, maxlen=self.chess_num)
         # temp = lines[0].split('\t')[1:-1]
             step = hs.solve()
+            end = time.time()
+            print(f"Time: {end - start:.2f} seconds")
         else:
+            start = time.time()
             bs = Blind_search(self.initial_state)
             step = bs.solve()
+            end = time.time()
+            print(f"Time: {end - start:.2f} seconds")
         print("Chess game: ", step)
         return step
 

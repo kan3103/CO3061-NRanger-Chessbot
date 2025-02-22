@@ -70,7 +70,7 @@ class Blind_search():
                 if(curr.isValid(temp.x, temp.y, node)):
                     original_x, original_y = curr.x, curr.y
                     curr.move(temp.x, temp.y)
-                    child = node[:]
+                    child = copy.deepcopy(node)
                     child.remove(temp)
                     if(len(child) != 0):
                         self.print_step("After", child, visited, output_path)
