@@ -28,7 +28,7 @@ class Heuristic_search():
         #         else: chess = Knight(x, y)
         #         self.initial.append(chess)
                 
-        self.initial = sorted(self.initial)
+        self.initial = (self.initial)
         self.visited = set()
         self.chess_num = len(self.initial)
         self.check_step = ""
@@ -81,12 +81,12 @@ class Heuristic_search():
                         tempchess.move(chess2.x, chess2.y)
                         temp = [chess3 for chess3 in node if chess3 != chess2 and chess3 != chess]
                         temp.append(tempchess)
-                        temp = sorted(temp)
+                        temp = (temp)
                         s = chess.type + " " + str(chess.x) + " " + str(chess.y) + " eat " + chess2.type + " " + str(chess2.x) + " " + str(chess2.y)
                         goal_temp = chess.type, chess.x, chess.y, chess2.type, chess2.x, chess2.y
                         if(frozenset(temp) in self.visited):
                             continue
-                        targets,have_targets = self.check_target(temp)
+                        targets = self.check_target(temp)
                         length = len(temp)
                         if(targets == 0 and length != 1) :
                             self.visited.add(frozenset(temp))
@@ -127,16 +127,15 @@ class Heuristic_search():
     
     def check_target(self, node):
         if len(node) == 1:
-            return 0,0
+            return 0
         targets = 0
         have_targets = 0
         for chess in node:
             target , have_target = chess.check_target(node)
             if (target == 0 and have_target == 0):
-                return 0,0
+                return 0
             targets += target
-            have_targets += have_target
-        return targets , have_targets
+        return targets 
             
     def check_goal(self, node):
         if len(node) == 1:
