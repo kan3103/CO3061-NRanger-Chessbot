@@ -6,6 +6,7 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from heuristic.run import Heuristic_search
 from blind_search.dfs import Blind_search
+import tracemalloc
 class ChessGame:
     def __init__(self, state_init, mode):
         pygame.init()
@@ -122,6 +123,7 @@ class ChessGame:
 
     def load_sol(self):
         # initial_state = []
+        tracemalloc.start()
         print(self.mode)
         if self.mode == "heuristic":
             start = time.time()
@@ -141,7 +143,11 @@ class ChessGame:
             step = bs.solve()
             end = time.time()
             print(f"Time: {end - start:.2f} seconds")
+        current, peak = tracemalloc.get_traced_memory()
+        print(f"Current memory usage is {current / 10**6}MB; Peak was {peak / 10**6}MB")
+        tracemalloc.stop()
         print("Chess game: ", step)
+        
         return step
 
     def load_images(self):

@@ -1,0 +1,179 @@
+
+Lần duyệt thứ 1	Before:	Queen, 5, 2	King, 5, 4	Bishop, 4, 5	Rook, 2, 3	
+Lần duyệt thứ 1	After:	Queen, 5, 4	Bishop, 4, 5	Rook, 2, 3	
+
+Lần duyệt thứ 2	Before:	Queen, 5, 4	Bishop, 4, 5	Rook, 2, 3	
+Lần duyệt thứ 2	After:	Queen, 4, 5	Rook, 2, 3	
+
+Lần duyệt thứ 3	Before:	Queen, 4, 5	Rook, 2, 3	
+Lần duyệt thứ 3	After:	Queen, 2, 3	
+
+Lần duyệt thứ 4	Goal:	Queen, 2, 3	
+Lần duyệt thứ 1	Before:	Pawn, 2, 4	Bishop, 3, 3	Knight, 3, 5	Knight, 5, 4	
+Lần duyệt thứ 1	After:	Pawn, 3, 5	Bishop, 3, 3	Knight, 5, 4	
+
+Lần duyệt thứ 2	Before:	Pawn, 3, 5	Bishop, 3, 3	Knight, 5, 4	
+Lần duyệt thứ 2	After:	Bishop, 3, 3	Knight, 3, 5	
+
+Lần duyệt thứ 3	Before:	Bishop, 3, 3	Knight, 3, 5	
+Lần duyệt thứ 3	After:	Pawn, 3, 5	Knight, 3, 3	
+
+Lần duyệt thứ 4	Before:	Pawn, 3, 5	Knight, 3, 3	
+Lần duyệt thứ 4	After:	Bishop, 2, 4	Knight, 3, 5	Knight, 5, 4	
+
+Lần duyệt thứ 5	Before:	Bishop, 2, 4	Knight, 3, 5	Knight, 5, 4	
+Lần duyệt thứ 5	After:	Bishop, 3, 5	Knight, 5, 4	
+
+Lần duyệt thứ 6	Before:	Bishop, 3, 5	Knight, 5, 4	
+Lần duyệt thứ 6	After:	Knight, 3, 5	
+
+Lần duyệt thứ 7	Goal:	Knight, 3, 5	
+Lần duyệt thứ 1	Before:	Pawn, 2, 4	Bishop, 3, 3	Knight, 3, 5	Knight, 5, 4	
+Lần duyệt thứ 1	After:	Pawn, 3, 5	Bishop, 3, 3	Knight, 5, 4	
+
+Lần duyệt thứ 2	Before:	Pawn, 3, 5	Bishop, 3, 3	Knight, 5, 4	
+Lần duyệt thứ 2	After:	Bishop, 3, 3	Knight, 3, 5	
+
+Lần duyệt thứ 3	Before:	Bishop, 3, 3	Knight, 3, 5	
+Lần duyệt thứ 3	After:	Pawn, 3, 5	Knight, 3, 3	
+
+Lần duyệt thứ 4	Before:	Pawn, 3, 5	Knight, 3, 3	
+Lần duyệt thứ 4	After:	Bishop, 2, 4	Knight, 3, 5	Knight, 5, 4	
+
+Lần duyệt thứ 5	Before:	Bishop, 2, 4	Knight, 3, 5	Knight, 5, 4	
+Lần duyệt thứ 5	After:	Bishop, 3, 5	Knight, 5, 4	
+
+Lần duyệt thứ 6	Before:	Bishop, 3, 5	Knight, 5, 4	
+Lần duyệt thứ 6	After:	Knight, 3, 5	
+
+Lần duyệt thứ 7	Goal:	Knight, 3, 5	
+Lần duyệt thứ 1	Before:	Rook, 2, 3	Queen, 5, 2	King, 5, 4	Bishop, 4, 5	
+Lần duyệt thứ 1	After:	Rook, 2, 3	Queen, 5, 4	Bishop, 4, 5	
+
+Lần duyệt thứ 2	Before:	Rook, 2, 3	Queen, 5, 4	Bishop, 4, 5	
+Lần duyệt thứ 2	After:	Rook, 2, 3	Queen, 4, 5	
+
+Lần duyệt thứ 3	Before:	Rook, 2, 3	Queen, 4, 5	
+Lần duyệt thứ 3	After:	Queen, 2, 3	
+
+Lần duyệt thứ 4	Goal:	Queen, 2, 3	
+Lần duyệt thứ 1	Before:	Rook, 2, 3	Queen, 5, 2	King, 5, 4	Bishop, 4, 5	
+Lần duyệt thứ 1	After:	Rook, 2, 3	Queen, 5, 4	Bishop, 4, 5	
+
+Lần duyệt thứ 2	Before:	Rook, 2, 3	Queen, 5, 4	Bishop, 4, 5	
+Lần duyệt thứ 2	After:	Rook, 2, 3	Queen, 4, 5	
+
+Lần duyệt thứ 3	Before:	Rook, 2, 3	Queen, 4, 5	
+Lần duyệt thứ 3	After:	Queen, 2, 3	
+
+Lần duyệt thứ 4	Goal:	Queen, 2, 3	
+Lần duyệt thứ 1	Before:	Bishop, 4, 3	Pawn, 2, 3	Rook, 4, 4	Rook, 5, 4	
+Lần duyệt thứ 1	After:	Bishop, 5, 4	Pawn, 2, 3	Rook, 4, 4	
+
+Lần duyệt thứ 2	Before:	Bishop, 5, 4	Pawn, 2, 3	Rook, 4, 4	
+Lần duyệt thứ 2	After:	Pawn, 2, 3	Rook, 5, 4	
+
+Lần duyệt thứ 3	Before:	Pawn, 2, 3	Rook, 5, 4	
+Lần duyệt thứ 3	After:	Pawn, 2, 3	Rook, 4, 3	Rook, 5, 4	
+
+Lần duyệt thứ 4	Before:	Pawn, 2, 3	Rook, 4, 3	Rook, 5, 4	
+Lần duyệt thứ 4	After:	Rook, 2, 3	Rook, 5, 4	
+
+Lần duyệt thứ 5	Before:	Rook, 2, 3	Rook, 5, 4	
+Lần duyệt thứ 5	After:	Bishop, 4, 3	Pawn, 2, 3	Rook, 5, 4	
+
+Lần duyệt thứ 6	Before:	Bishop, 4, 3	Pawn, 2, 3	Rook, 5, 4	
+Lần duyệt thứ 6	After:	Bishop, 5, 4	Pawn, 2, 3	
+
+Lần duyệt thứ 7	Before:	Bishop, 5, 4	Pawn, 2, 3	
+Lần duyệt thứ 7	After:	Bishop, 4, 3	Pawn, 2, 3	Rook, 4, 4	
+
+Lần duyệt thứ 8	Before:	Bishop, 4, 3	Pawn, 2, 3	Rook, 4, 4	
+Lần duyệt thứ 8	After:	Pawn, 2, 3	Rook, 4, 3	
+
+Lần duyệt thứ 9	Before:	Pawn, 2, 3	Rook, 4, 3	
+Lần duyệt thứ 9	After:	Rook, 2, 3	
+
+Lần duyệt thứ 10	Goal:	Rook, 2, 3	
+Lần duyệt thứ 1	Before:	Queen, 5, 2	Rook, 2, 3	King, 5, 4	Bishop, 4, 5	
+Lần duyệt thứ 1	After:	Queen, 5, 4	Rook, 2, 3	Bishop, 4, 5	
+
+Lần duyệt thứ 2	Before:	Queen, 5, 4	Rook, 2, 3	Bishop, 4, 5	
+Lần duyệt thứ 2	After:	Queen, 4, 5	Rook, 2, 3	
+
+Lần duyệt thứ 3	Before:	Queen, 4, 5	Rook, 2, 3	
+Lần duyệt thứ 3	After:	Queen, 2, 3	
+
+Lần duyệt thứ 4	Goal:	Queen, 2, 3	
+Lần duyệt thứ 1	Before:	Queen, 5, 2	Rook, 2, 3	King, 5, 4	Bishop, 4, 5	
+Lần duyệt thứ 1	After:	Queen, 5, 4	Rook, 2, 3	Bishop, 4, 5	
+
+Lần duyệt thứ 2	Before:	Queen, 5, 4	Rook, 2, 3	Bishop, 4, 5	
+Lần duyệt thứ 2	After:	Queen, 4, 5	Rook, 2, 3	
+
+Lần duyệt thứ 3	Before:	Queen, 4, 5	Rook, 2, 3	
+Lần duyệt thứ 3	After:	Queen, 2, 3	
+
+Lần duyệt thứ 4	Goal:	Queen, 2, 3	
+Lần duyệt thứ 1	Before:	Rook, 2, 3	King, 5, 4	Bishop, 4, 5	Queen, 5, 2	
+Lần duyệt thứ 1	After:	Rook, 2, 3	King, 4, 5	Queen, 5, 2	
+
+Lần duyệt thứ 2	Before:	Rook, 2, 3	King, 4, 5	Queen, 5, 2	
+Lần duyệt thứ 2	After:	King, 5, 4	Bishop, 2, 3	Queen, 5, 2	
+
+Lần duyệt thứ 3	Before:	King, 5, 4	Bishop, 2, 3	Queen, 5, 2	
+Lần duyệt thứ 3	After:	Bishop, 2, 3	Queen, 5, 4	
+
+Lần duyệt thứ 4	Before:	Bishop, 2, 3	Queen, 5, 4	
+Lần duyệt thứ 4	After:	Rook, 2, 3	Bishop, 5, 4	Queen, 5, 2	
+
+Lần duyệt thứ 5	Before:	Rook, 2, 3	Bishop, 5, 4	Queen, 5, 2	
+Lần duyệt thứ 5	After:	Rook, 2, 3	Queen, 5, 4	
+
+Lần duyệt thứ 6	Before:	Rook, 2, 3	Queen, 5, 4	
+Lần duyệt thứ 6	After:	Rook, 2, 3	Bishop, 4, 5	Queen, 5, 4	
+
+Lần duyệt thứ 7	Before:	Rook, 2, 3	Bishop, 4, 5	Queen, 5, 4	
+Lần duyệt thứ 7	After:	Bishop, 2, 3	Queen, 5, 4	
+
+Lần duyệt thứ 8	Before:	Bishop, 2, 3	Queen, 5, 4	
+Lần duyệt thứ 8	After:	Rook, 2, 3	Bishop, 5, 4	
+
+Lần duyệt thứ 9	Before:	Rook, 2, 3	Bishop, 5, 4	
+Lần duyệt thứ 9	After:	Rook, 2, 3	Queen, 4, 5	
+
+Lần duyệt thứ 10	Before:	Rook, 2, 3	Queen, 4, 5	
+Lần duyệt thứ 10	After:	Queen, 2, 3	
+
+Lần duyệt thứ 11	Goal:	Queen, 2, 3	
+Lần duyệt thứ 1	Before:	Rook, 2, 3	King, 5, 4	Bishop, 4, 5	Queen, 5, 2	
+Lần duyệt thứ 1	After:	Rook, 2, 3	King, 4, 5	Queen, 5, 2	
+
+Lần duyệt thứ 2	Before:	Rook, 2, 3	King, 4, 5	Queen, 5, 2	
+Lần duyệt thứ 2	After:	King, 5, 4	Bishop, 2, 3	Queen, 5, 2	
+
+Lần duyệt thứ 3	Before:	King, 5, 4	Bishop, 2, 3	Queen, 5, 2	
+Lần duyệt thứ 3	After:	Bishop, 2, 3	Queen, 5, 4	
+
+Lần duyệt thứ 4	Before:	Bishop, 2, 3	Queen, 5, 4	
+Lần duyệt thứ 4	After:	Rook, 2, 3	Bishop, 5, 4	Queen, 5, 2	
+
+Lần duyệt thứ 5	Before:	Rook, 2, 3	Bishop, 5, 4	Queen, 5, 2	
+Lần duyệt thứ 5	After:	Rook, 2, 3	Queen, 5, 4	
+
+Lần duyệt thứ 6	Before:	Rook, 2, 3	Queen, 5, 4	
+Lần duyệt thứ 6	After:	Rook, 2, 3	Bishop, 4, 5	Queen, 5, 4	
+
+Lần duyệt thứ 7	Before:	Rook, 2, 3	Bishop, 4, 5	Queen, 5, 4	
+Lần duyệt thứ 7	After:	Bishop, 2, 3	Queen, 5, 4	
+
+Lần duyệt thứ 8	Before:	Bishop, 2, 3	Queen, 5, 4	
+Lần duyệt thứ 8	After:	Rook, 2, 3	Bishop, 5, 4	
+
+Lần duyệt thứ 9	Before:	Rook, 2, 3	Bishop, 5, 4	
+Lần duyệt thứ 9	After:	Rook, 2, 3	Queen, 4, 5	
+
+Lần duyệt thứ 10	Before:	Rook, 2, 3	Queen, 4, 5	
+Lần duyệt thứ 10	After:	Queen, 2, 3	
+
+Lần duyệt thứ 11	Goal:	Queen, 2, 3	
