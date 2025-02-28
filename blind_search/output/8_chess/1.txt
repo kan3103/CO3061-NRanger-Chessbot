@@ -1,0 +1,1049 @@
+
+Lần duyệt thứ 1	Before:	Pawn, 3, 4	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 1	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 2	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 2	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 3	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 3	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 4	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 4	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 5	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 5	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 6	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 6	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 7	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 7	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 8	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 8	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 9	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 9	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 10	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 10	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 11	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 11	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 12	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 12	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 13	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 13	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 14	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 14	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 15	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 15	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 16	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 16	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 17	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 17	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 18	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 18	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 19	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 19	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 20	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 20	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 21	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 21	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 22	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 22	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 23	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 23	After:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 24	Before:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 24	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 25	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 25	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 26	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 26	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 27	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 27	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 28	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 28	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 29	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 29	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 30	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 30	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 31	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 31	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 32	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 32	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 33	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 33	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 34	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 34	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 35	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 35	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 36	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 36	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 37	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 37	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 38	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 38	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 39	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 39	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 40	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 40	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 41	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 41	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 42	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 42	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 43	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 43	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 44	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 44	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 45	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 45	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 46	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 46	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 47	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 47	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 48	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 48	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 49	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 49	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 50	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 50	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 51	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 51	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 52	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 52	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 53	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 53	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 54	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 54	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 55	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 55	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 56	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 56	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 57	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 57	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 58	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 58	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 59	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 59	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 60	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 60	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 61	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 61	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 62	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 62	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 63	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 63	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 64	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 64	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 65	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 65	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 66	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 66	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 67	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 67	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 68	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 68	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 69	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 69	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 70	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 70	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 71	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 71	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 72	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 72	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 73	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 73	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 74	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 74	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 75	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 75	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 76	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 76	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 77	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 77	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 78	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 78	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 79	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 79	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 80	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 80	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 81	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 81	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 82	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 82	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 83	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 83	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 84	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 84	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 85	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 85	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 86	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 86	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 87	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 87	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 88	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 88	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 89	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 89	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 90	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 90	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 91	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 91	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 92	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 92	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 93	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 93	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 94	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 94	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 95	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 95	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 96	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 96	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 97	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 97	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 98	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 98	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 99	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 99	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 100	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 100	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 101	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 101	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 102	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 102	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 103	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 103	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 104	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 104	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 105	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 105	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 106	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 106	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 107	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 107	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 108	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 108	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 109	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 109	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 110	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 110	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 111	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 111	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 112	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 112	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 113	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 113	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 114	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 114	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 115	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 115	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 116	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 116	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 117	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 117	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 118	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 118	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 119	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 119	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 120	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 120	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 121	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 121	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 122	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 122	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 123	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 123	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 124	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 124	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 125	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 125	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 126	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 126	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 127	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 127	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 128	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 128	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 129	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 129	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 130	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 130	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 131	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 131	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 132	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 132	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 133	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 133	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 134	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 134	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 135	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 135	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 136	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 136	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 137	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 137	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 138	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 138	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 139	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 139	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 140	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 140	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 141	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 141	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 142	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 142	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 143	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 143	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 144	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 144	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 145	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 145	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 146	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 146	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 147	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 147	After:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 148	Before:	Pawn, 5, 2	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 148	After:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 149	Before:	Pawn, 4, 3	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 149	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 150	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 150	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 151	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 151	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 152	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 152	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 153	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 153	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 154	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 154	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 155	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 155	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 156	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 156	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 157	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 157	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 158	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 158	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 159	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 159	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 160	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 160	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 161	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 161	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 162	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 162	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 163	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 163	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 164	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 164	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 165	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 165	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 166	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 166	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 167	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 167	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 168	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 168	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 169	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 169	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 170	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 170	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 171	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 171	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 172	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 172	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 173	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 173	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 174	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 174	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 175	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 175	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 176	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 176	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 177	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 177	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 178	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 178	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 179	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 179	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 180	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 180	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 181	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 181	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 182	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 182	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 183	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 183	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 184	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 184	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 185	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 185	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 186	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 186	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 187	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 187	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 188	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 188	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 189	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 189	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 190	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 190	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 191	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 191	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 192	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 192	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 193	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 193	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 194	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 194	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 195	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 195	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 196	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 196	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 197	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 197	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 198	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 198	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 199	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 199	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 200	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 200	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 201	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 201	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 202	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 202	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 203	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 203	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 204	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 204	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 205	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 205	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 206	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 206	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 207	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 207	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 208	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 208	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 209	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 209	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 210	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 210	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 211	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 211	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 212	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 212	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 213	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 213	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 214	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 214	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 215	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 215	After:	Pawn, 6, 1	Pawn, 0, 7	
+
+Lần duyệt thứ 216	Before:	Pawn, 6, 1	Pawn, 0, 7	
+Lần duyệt thứ 216	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 217	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 217	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 218	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 218	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 219	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 219	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 220	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 220	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 221	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 221	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 222	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 222	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 223	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 223	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 224	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 224	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 225	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 225	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 226	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 226	After:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 227	Before:	Pawn, 6, 1	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 227	After:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 228	Before:	Pawn, 6, 1	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 228	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 229	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 229	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 230	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 230	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 231	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 231	After:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 232	Before:	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 232	After:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 233	Before:	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 233	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 234	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 234	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 235	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 235	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 236	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 236	After:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 237	Before:	Pawn, 3, 4	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 237	After:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 238	Before:	Pawn, 6, 1	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 238	After:	Pawn, 3, 4	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 239	Before:	Pawn, 3, 4	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 239	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 240	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 240	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 241	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 241	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 242	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 242	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 243	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 243	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 244	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 244	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 245	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 245	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 246	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 246	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 247	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 247	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 248	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 248	After:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 249	Before:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 249	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 250	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 250	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 251	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 251	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 252	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 252	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 253	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 253	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 254	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 254	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 255	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 255	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 256	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 256	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 257	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 257	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 258	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 258	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 259	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 259	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 260	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 260	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 261	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 261	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 262	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 262	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 263	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 263	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 264	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 264	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 265	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 265	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 266	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 266	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 267	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 267	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 268	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 268	After:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 269	Before:	Pawn, 5, 2	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 269	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 270	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 270	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 271	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 271	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 272	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 272	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 273	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 273	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 274	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 274	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 275	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 275	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 276	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 276	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 277	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 277	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 278	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 278	After:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 279	Before:	Pawn, 5, 2	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 279	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 280	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 280	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 281	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 281	After:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 282	Before:	Pawn, 5, 2	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 282	After:	Pawn, 4, 3	Pawn, 0, 7	
+
+Lần duyệt thứ 283	Before:	Pawn, 4, 3	Pawn, 0, 7	
+Lần duyệt thứ 283	After:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 284	Before:	Pawn, 5, 2	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 284	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 285	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 285	After:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 286	Before:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 286	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 287	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 287	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 288	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 288	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 289	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 289	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 290	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 290	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 291	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 291	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 292	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 292	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 293	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 293	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 294	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 294	After:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 295	Before:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 295	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 296	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 296	After:	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 297	Before:	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 297	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 298	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 298	After:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 299	Before:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 299	After:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 300	Before:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 300	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 301	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 301	After:	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 302	Before:	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 302	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 303	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 303	After:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 304	Before:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 304	After:	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 305	Before:	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 305	After:	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 306	Before:	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 306	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 307	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 307	After:	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 308	Before:	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 308	After:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 309	Before:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 309	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 310	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 310	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 311	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 311	After:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 312	Before:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 312	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 313	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 313	After:	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 314	Before:	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 314	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 315	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 315	After:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 316	Before:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 316	After:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 317	Before:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 317	After:	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 318	Before:	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 318	After:	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 319	Before:	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 319	After:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 320	Before:	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 320	After:	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 321	Before:	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 321	After:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 322	Before:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 322	After:	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 323	Before:	Pawn, 3, 4	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 323	After:	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 324	Before:	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 324	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 325	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 325	After:	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 326	Before:	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 326	After:	Pawn, 3, 4	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 327	Before:	Pawn, 3, 4	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 327	After:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 328	Before:	Pawn, 4, 3	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 328	After:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 329	Before:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 329	After:	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 330	Before:	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 330	After:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 331	Before:	Pawn, 4, 3	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 331	After:	Pawn, 3, 4	Pawn, 0, 7	
+
+Lần duyệt thứ 332	Before:	Pawn, 3, 4	Pawn, 0, 7	
+Lần duyệt thứ 332	After:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 333	Before:	Pawn, 3, 4	Pawn, 1, 6	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 333	After:	Pawn, 3, 4	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 334	Before:	Pawn, 3, 4	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 334	After:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 335	Before:	Pawn, 3, 4	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 335	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 336	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 336	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 337	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 337	After:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 338	Before:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 338	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+
+Lần duyệt thứ 339	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 3	
+Lần duyệt thứ 339	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 340	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 340	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 341	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 341	After:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 342	Before:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 342	After:	Pawn, 2, 5	Pawn, 0, 7	
+
+Lần duyệt thứ 343	Before:	Pawn, 2, 5	Pawn, 0, 7	
+Lần duyệt thứ 343	After:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 344	Before:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 344	After:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+
+Lần duyệt thứ 345	Before:	Pawn, 2, 5	Pawn, 0, 7	Rook, 4, 3	
+Lần duyệt thứ 345	After:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+
+Lần duyệt thứ 346	Before:	Pawn, 4, 3	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	Rook, 3, 4	
+Lần duyệt thứ 346	After:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 347	Before:	Pawn, 3, 4	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 347	After:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 348	Before:	Pawn, 2, 5	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 348	After:	Pawn, 1, 6	Pawn, 0, 7	
+
+Lần duyệt thứ 349	Before:	Pawn, 1, 6	Pawn, 0, 7	
+Lần duyệt thứ 349	After:	Pawn, 0, 7	
+
+Lần duyệt thứ 350	Goal:	Pawn, 0, 7	

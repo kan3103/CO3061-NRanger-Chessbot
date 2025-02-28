@@ -1,0 +1,68 @@
+
+Step 1: 	Pawn, 2, 6	Pawn, 3, 5	Bishop, 5, 5	Rook, 6, 4	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	King, 6, 3	
+Step 2: 	Pawn, 2, 6	Pawn, 3, 5	Bishop, 5, 5	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	King, 6, 4	
+Step 3: 	Bishop, 5, 5	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	King, 6, 4	Pawn, 2, 6	
+Step 4: 	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	
+Step 5: 	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 4, 1	
+Step 6: 	Rook, 2, 1	Bishop, 1, 1	Pawn, 2, 6	Rook, 4, 1	Bishop, 5, 5	
+Step 7: 	Bishop, 1, 1	Pawn, 2, 6	Bishop, 5, 5	Rook, 2, 1	
+Step 8: 	Pawn, 2, 6	Rook, 2, 1	Bishop, 1, 1	
+Step 9: 	Rook, 2, 1	Pawn, 2, 6	Rook, 4, 1	Bishop, 1, 1	
+Step 10: 	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	
+Step 11: 	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	Bishop, 1, 1	
+Step 12: 	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 2	
+Step 13: 	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 1, 1	
+Step 14: 	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	Bishop, 2, 2	
+Step 15: 	Rook, 2, 1	Pawn, 2, 6	King, 5, 5	Rook, 4, 1	Bishop, 1, 1	
+Step 16: 	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 4, 1	
+Step 17: 	Rook, 2, 1	Pawn, 2, 6	King, 5, 5	Rook, 4, 1	Bishop, 2, 2	
+Step 18: 	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 4, 1	Rook, 1, 1	
+Step 19: 	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 4, 1	Rook, 2, 2	
+Step 20: 	Knight, 4, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	
+Step 21: 	Knight, 4, 1	Bishop, 1, 1	Pawn, 2, 6	Rook, 2, 1	Bishop, 5, 5	
+Step 22: 	Knight, 4, 1	Pawn, 2, 6	Rook, 2, 1	Bishop, 1, 1	
+Step 23: 	Knight, 4, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 1, 1	
+Step 24: 	Knight, 4, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	Bishop, 1, 1	
+Step 25: 	Knight, 4, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	Bishop, 2, 2	
+Step 26: 	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 1	Knight, 2, 2	
+Step 27: 	Knight, 4, 1	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 2	
+Step 28: 	Knight, 4, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 3, 1	
+Step 29: 	Knight, 4, 1	Pawn, 2, 6	King, 5, 5	Rook, 3, 1	Bishop, 2, 2	
+Step 30: 	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 3, 1	Knight, 2, 2	
+Step 31: 	Pawn, 2, 6	King, 5, 5	Rook, 3, 1	Bishop, 2, 2	
+Step 32: 	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Pawn, 2, 6	Bishop, 5, 5	
+Step 33: 	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Pawn, 2, 6	Bishop, 1, 1	
+Step 34: 	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Pawn, 2, 6	King, 5, 5	Bishop, 2, 2	
+Step 35: 	Knight, 4, 1	Rook, 3, 1	Bishop, 2, 2	Pawn, 2, 6	King, 5, 5	Rook, 1, 1	
+Step 36: 	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Pawn, 2, 6	King, 5, 5	Bishop, 1, 1	
+Step 37: 	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Knight, 2, 2	
+Step 38: 	Rook, 3, 1	Rook, 2, 1	Pawn, 2, 6	King, 5, 5	Bishop, 2, 2	
+Step 39: 	Rook, 3, 1	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 2	
+Step 40: 	Knight, 4, 1	Rook, 3, 1	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Rook, 2, 2	
+Step 41: 	Knight, 4, 1	Rook, 2, 1	Bishop, 1, 1	Pawn, 2, 6	King, 5, 5	Bishop, 3, 1	
+Step 42: 	Knight, 4, 1	Rook, 3, 1	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	Bishop, 6, 4	
+Step 43: 	Knight, 4, 1	Rook, 2, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	Bishop, 3, 1	
+Step 44: 	Knight, 4, 1	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	Rook, 3, 1	
+Step 45: 	Bishop, 1, 1	Bishop, 2, 2	Pawn, 2, 6	Rook, 4, 1	
+Step 46: 	Bishop, 2, 2	Pawn, 2, 6	Rook, 1, 1	
+Step 47: 	Knight, 4, 1	Bishop, 2, 2	Pawn, 2, 6	Rook, 1, 1	
+Step 48: 	Knight, 4, 1	Pawn, 2, 6	Rook, 3, 1	Bishop, 2, 2	
+Step 49: 	Bishop, 1, 1	Pawn, 2, 6	Rook, 3, 1	Knight, 2, 2	
+Step 50: 	Pawn, 2, 6	Rook, 3, 1	Bishop, 2, 2	
+Step 51: 	Knight, 4, 1	Rook, 2, 1	Bishop, 1, 1	Pawn, 2, 6	Bishop, 2, 2	
+Step 52: 	Rook, 2, 1	Bishop, 1, 1	Pawn, 2, 6	Knight, 2, 2	
+Step 53: 	Bishop, 1, 1	Pawn, 2, 6	Rook, 2, 2	
+Step 54: 	Rook, 2, 1	Pawn, 2, 6	Bishop, 2, 2	
+Step 55: 	Pawn, 2, 6	Rook, 2, 2	
+Step 56: 	Rook, 2, 6	
+Goal with 56 
+step 1: King 5 2 eat Bishop 6 3
+step 2: King 6 3 eat Rook 6 4
+step 3: Pawn 3 5 eat Pawn 2 6
+step 4: Bishop 5 5 eat King 6 4
+step 5: Bishop 6 4 eat Rook 3 1
+step 6: Bishop 3 1 eat Bishop 2 2
+step 7: Knight 4 1 eat Bishop 2 2
+step 8: Bishop 1 1 eat Knight 2 2
+step 9: Rook 2 1 eat Bishop 2 2
+step 10: Rook 2 2 eat Pawn 2 6
