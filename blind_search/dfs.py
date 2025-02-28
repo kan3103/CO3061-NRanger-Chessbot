@@ -31,7 +31,7 @@ class Blind_search():
         os.makedirs(f"blind_search/output/{self.chess_num}_chess", exist_ok=True)
         
         self.id = 1
-        self.output_path = f"blind_search/output/{self.chess_num}_chess/{self.id}.txt"
+        self.output_path = f"blind_search/output/11_chess/1.txt"
 
     def print_step(self, step, node, visited, output_path):
         res = f"\nLần duyệt thứ {len(visited)}\t{step}:\t"
@@ -56,10 +56,10 @@ class Blind_search():
         visited.append(node)
         
         if(len(node) == 1):
-            self.print_step("Goal", node, visited, output_path)
+            # self.print_step("Goal", node, visited, output_path)
             return True
             
-        self.print_step("Before", node, visited, output_path)
+        # self.print_step("Before", node, visited, output_path)
         
         child = []
         for i in range(len(node)):
@@ -73,7 +73,7 @@ class Blind_search():
                     child = copy.deepcopy(node)
                     child.remove(temp)
                     if(len(child) != 0):
-                        self.print_step("After", child, visited, output_path)
+                        # self.print_step("After", child, visited, output_path)
                         if self.dfs_recursive(child, output_path, chess_num, sol, visited): 
                             
                             temp_str = f"{curr.type}, {original_x}, {original_y} captures {temp.type}, {temp.x}, {temp.y}"

@@ -12,23 +12,6 @@ class Heuristic_search():
     def __init__(self,initial_state):
         self.step = 0
         self.initial = initial_state
-        # self.initial = []
-        # self.input_path = input_path
-        # with open(input_path, "r") as input_file:
-        #     for line in input_file:  
-        #         line = line.strip()
-        #         parts = line.split(",")  
-        #         chessType, x, y = parts
-        #         x, y = int(x), int(y)
-        #         if chessType == "rook": chess = Rook(x, y)
-        #         elif chessType == "pawn": chess = Pawn(x, y)
-        #         elif chessType == "bishop": chess = Bishop(x, y)
-        #         elif chessType == "queen": chess = Queen(x, y)
-        #         elif chessType == "king": chess = King(x, y)
-        #         else: chess = Knight(x, y)
-        #         self.initial.append(chess)
-                
-        self.initial = (self.initial)
         self.visited = set()
         self.chess_num = len(self.initial)
         self.check_step = ""
@@ -74,9 +57,7 @@ class Heuristic_search():
             for chess in node:
                 for chess2 in node:
                     if chess == chess2: continue
-                    
                     if chess.isValid(chess2.x, chess2.y, node):
-                        
                         tempchess = self.copy(chess)
                         tempchess.move(chess2.x, chess2.y)
                         temp = [chess3 for chess3 in node if chess3 != chess2 and chess3 != chess]
@@ -104,7 +85,6 @@ class Heuristic_search():
                                 count += 1
                             self.goal = sol[1]
                             self.print_step(self.check_step)
-                            # print(self.goal)
                             return True
 
                         value = -targets 
